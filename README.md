@@ -1,1 +1,1 @@
-# Lyubo's Telerik Homeworks
+#My Telerik Homeworks
