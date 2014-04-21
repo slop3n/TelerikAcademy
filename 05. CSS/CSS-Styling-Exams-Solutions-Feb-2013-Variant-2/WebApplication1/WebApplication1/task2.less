@@ -11,14 +11,29 @@ body {
         width: 960px;
 
         .notification-list {
-            width:400px;
-            margin:25px;
+            width: 470px;
+            margin: 25px;
             border: 1px solid black;
             border-top-left-radius: 15px;
             border-top-right-radius: 15px;
 
             li {
+                a{
+                    text-decoration:none;
+
+                    &:hover .content{
+                        position:absolute;
+                        display:block;
+                    }
+                }
                 display: inline-block;
+                padding: 5px 20px;
+                border-right: 1px solid black;
+                text-align:center;
+
+                &:last-of-type{
+                    border-right:none;
+                }
 
                 img {
                     width: 15px;

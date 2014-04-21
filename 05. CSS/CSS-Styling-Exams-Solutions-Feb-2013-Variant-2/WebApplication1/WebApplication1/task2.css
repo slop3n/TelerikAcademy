@@ -31,7 +31,7 @@ body #wrapper {
   width: 960px;
 }
 body #wrapper .notification-list {
-  width: 400px;
+  width: 470px;
   margin: 25px;
   border: 1px solid black;
   border-top-left-radius: 15px;
@@ -39,6 +39,19 @@ body #wrapper .notification-list {
 }
 body #wrapper .notification-list li {
   display: inline-block;
+  padding: 5px 20px;
+  border-right: 1px solid black;
+  text-align: center;
+}
+body #wrapper .notification-list li a {
+  text-decoration: none;
+}
+body #wrapper .notification-list li a:hover .content {
+  position: absolute;
+  display: block;
+}
+body #wrapper .notification-list li:last-of-type {
+  border-right: none;
 }
 body #wrapper .notification-list li img {
   width: 15px;
