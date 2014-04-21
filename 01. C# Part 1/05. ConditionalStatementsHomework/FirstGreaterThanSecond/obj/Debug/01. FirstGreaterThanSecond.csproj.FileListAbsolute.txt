@@ -1,0 +1,12 @@
+D:\Programming\05. ConditionalStatementsHomework\FirstGreaterThanSecond\bin\Debug\FirstGreaterThanSecond.exe.config
+D:\Programming\05. ConditionalStatementsHomework\FirstGreaterThanSecond\bin\Debug\FirstGreaterThanSecond.exe
+D:\Programming\05. ConditionalStatementsHomework\FirstGreaterThanSecond\bin\Debug\FirstGreaterThanSecond.pdb
+D:\Programming\05. ConditionalStatementsHomework\FirstGreaterThanSecond\obj\Debug\01. FirstGreaterThanSecond.csprojResolveAssemblyReference.cache
+D:\Programming\05. ConditionalStatementsHomework\FirstGreaterThanSecond\obj\Debug\FirstGreaterThanSecond.exe
+D:\Programming\05. ConditionalStatementsHomework\FirstGreaterThanSecond\obj\Debug\FirstGreaterThanSecond.pdb
+D:\Programming\Homeworks\05. ConditionalStatementsHomework\FirstGreaterThanSecond\bin\Debug\FirstGreaterThanSecond.exe.config
+D:\Programming\Homeworks\05. ConditionalStatementsHomework\FirstGreaterThanSecond\obj\Debug\FirstGreaterThanSecond.exe
+D:\Programming\Homeworks\05. ConditionalStatementsHomework\FirstGreaterThanSecond\obj\Debug\FirstGreaterThanSecond.pdb
+D:\Programming\Homeworks\C#1\05. ConditionalStatementsHomework\FirstGreaterThanSecond\bin\Debug\FirstGreaterThanSecond.exe.config
+D:\Programming\Homeworks\C#1\05. ConditionalStatementsHomework\FirstGreaterThanSecond\obj\Debug\FirstGreaterThanSecond.exe
+D:\Programming\Homeworks\C#1\05. ConditionalStatementsHomework\FirstGreaterThanSecond\obj\Debug\FirstGreaterThanSecond.pdb

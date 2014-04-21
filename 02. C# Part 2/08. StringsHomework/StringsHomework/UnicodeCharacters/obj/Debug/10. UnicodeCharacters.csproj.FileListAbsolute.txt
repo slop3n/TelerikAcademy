@@ -1,0 +1,5 @@
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe.config
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\UnicodeCharacters\bin\Debug\UnicodeCharacters.pdb
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\UnicodeCharacters\obj\Debug\UnicodeCharacters.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\UnicodeCharacters\obj\Debug\UnicodeCharacters.pdb

@@ -1,0 +1,6 @@
+D:\Programming\03. OperatorsHomework\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+D:\Programming\03. OperatorsHomework\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+D:\Programming\03. OperatorsHomework\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+D:\Programming\03. OperatorsHomework\PrimeNumbers\obj\Debug\PrimeNumbers.csprojResolveAssemblyReference.cache
+D:\Programming\03. OperatorsHomework\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+D:\Programming\03. OperatorsHomework\PrimeNumbers\obj\Debug\PrimeNumbers.pdb

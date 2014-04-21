@@ -1,0 +1,5 @@
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\SortListOfStrings\bin\Debug\SortListOfStrings.exe.config
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\SortListOfStrings\bin\Debug\SortListOfStrings.exe
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\SortListOfStrings\bin\Debug\SortListOfStrings.pdb
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\SortListOfStrings\obj\Debug\SortListOfStrings.exe
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\SortListOfStrings\obj\Debug\SortListOfStrings.pdb

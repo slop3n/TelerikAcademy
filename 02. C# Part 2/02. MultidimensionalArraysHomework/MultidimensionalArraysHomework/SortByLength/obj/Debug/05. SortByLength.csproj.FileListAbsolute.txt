@@ -1,0 +1,6 @@
+D:\Programming\Homeworks\08. MultidimensionalArraysHomework\MultidimensionalArraysHomework\SortByLength\bin\Debug\SortByLength.exe.config
+D:\Programming\Homeworks\08. MultidimensionalArraysHomework\MultidimensionalArraysHomework\SortByLength\bin\Debug\SortByLength.exe
+D:\Programming\Homeworks\08. MultidimensionalArraysHomework\MultidimensionalArraysHomework\SortByLength\bin\Debug\SortByLength.pdb
+D:\Programming\Homeworks\08. MultidimensionalArraysHomework\MultidimensionalArraysHomework\SortByLength\obj\Debug\05. SortByLength.csprojResolveAssemblyReference.cache
+D:\Programming\Homeworks\08. MultidimensionalArraysHomework\MultidimensionalArraysHomework\SortByLength\obj\Debug\SortByLength.exe
+D:\Programming\Homeworks\08. MultidimensionalArraysHomework\MultidimensionalArraysHomework\SortByLength\obj\Debug\SortByLength.pdb

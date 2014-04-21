@@ -1,0 +1,6 @@
+D:\Programming\Intro-Programming\PrintDate\bin\Debug\PrintDate.exe.config
+D:\Programming\Intro-Programming\PrintDate\bin\Debug\PrintDate.exe
+D:\Programming\Intro-Programming\PrintDate\bin\Debug\PrintDate.pdb
+D:\Programming\Intro-Programming\PrintDate\obj\Debug\2. PrintDate.csprojResolveAssemblyReference.cache
+D:\Programming\Intro-Programming\PrintDate\obj\Debug\PrintDate.exe
+D:\Programming\Intro-Programming\PrintDate\obj\Debug\PrintDate.pdb

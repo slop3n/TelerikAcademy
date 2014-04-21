@@ -1,0 +1,6 @@
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\CheckNeighborElements\obj\Debug\05. CheckNeighborElements.csprojResolveAssemblyReference.cache
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\CheckNeighborElements\bin\Debug\CheckNeighborElements.exe.config
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\CheckNeighborElements\bin\Debug\CheckNeighborElements.exe
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\CheckNeighborElements\bin\Debug\CheckNeighborElements.pdb
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\CheckNeighborElements\obj\Debug\CheckNeighborElements.exe
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\CheckNeighborElements\obj\Debug\CheckNeighborElements.pdb

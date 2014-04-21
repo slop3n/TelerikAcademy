@@ -1,0 +1,5 @@
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\MaximalSumInMatrix\bin\Debug\MaximalSumInMatrix.exe.config
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\MaximalSumInMatrix\bin\Debug\MaximalSumInMatrix.exe
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\MaximalSumInMatrix\bin\Debug\MaximalSumInMatrix.pdb
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\MaximalSumInMatrix\obj\Debug\MaximalSumInMatrix.exe
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\MaximalSumInMatrix\obj\Debug\MaximalSumInMatrix.pdb

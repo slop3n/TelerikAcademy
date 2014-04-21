@@ -1,0 +1,49 @@
+﻿body {
+    font-size:16px;
+}
+table{
+    border:1px solid black;
+    border-collapse:collapse;
+    text-align:left;
+    text-indent:5px;
+}
+
+th{
+    border:1px solid black;
+    background-color:#4cff00;
+    color:white;
+}
+
+td{
+    border-left: 1px solid black;
+}
+
+#contact{
+    width:150px;
+}
+
+#city{
+    width:100px;
+}
+
+#country{
+    width:140px;
+}
+
+#promoted {
+    width: 100px;
+}
+
+tr:nth-child(2n) {
+    background-color: white;
+}
+
+
+tr:nth-child(2n+1){
+    background-color: rgba(237,248,85,0.3);
+}
+
+.flag{
+    width:20px;
+    height:auto;
+}

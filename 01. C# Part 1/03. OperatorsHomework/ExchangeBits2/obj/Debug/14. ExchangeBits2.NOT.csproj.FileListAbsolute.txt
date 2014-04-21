@@ -1,0 +1,6 @@
+D:\Programming\03. OperatorsHomework\ExchangeBits2\bin\Debug\ExchangeBits2.exe.config
+D:\Programming\03. OperatorsHomework\ExchangeBits2\obj\Debug\ExchangeBits2.exe
+D:\Programming\03. OperatorsHomework\ExchangeBits2\obj\Debug\ExchangeBits2.pdb
+D:\Programming\03. OperatorsHomework\ExchangeBits2\bin\Debug\ExchangeBits2.exe
+D:\Programming\03. OperatorsHomework\ExchangeBits2\bin\Debug\ExchangeBits2.pdb
+D:\Programming\03. OperatorsHomework\ExchangeBits2\obj\Debug\14. ExchangeBits2.NOT.csprojResolveAssemblyReference.cache

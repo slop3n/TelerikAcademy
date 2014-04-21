@@ -1,0 +1,18 @@
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\CopyrightTriangle\obj\Debug\09. CopyrightTriangle.csprojResolveAssemblyReference.cache
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\CopyrightTriangle\bin\Debug\CopyrightTriangle.exe.config
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\CopyrightTriangle\bin\Debug\CopyrightTriangle.exe
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\CopyrightTriangle\bin\Debug\CopyrightTriangle.pdb
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\CopyrightTriangle\obj\Debug\CopyrightTriangle.exe
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\CopyrightTriangle\obj\Debug\CopyrightTriangle.pdb
+D:\Programming\Datatypes\CopyrightTriangle\bin\Debug\CopyrightTriangle.exe.config
+D:\Programming\Datatypes\CopyrightTriangle\obj\Debug\CopyrightTriangle.exe
+D:\Programming\Datatypes\CopyrightTriangle\obj\Debug\CopyrightTriangle.pdb
+D:\Programming\Datatypes\CopyrightTriangle\bin\Debug\CopyrightTriangle.exe
+D:\Programming\Datatypes\CopyrightTriangle\bin\Debug\CopyrightTriangle.pdb
+D:\Programming\Datatypes\CopyrightTriangle\obj\Debug\09. CopyrightTriangle.csprojResolveAssemblyReference.cache
+D:\Programming\02. Datatypes\CopyrightTriangle\bin\Debug\CopyrightTriangle.exe.config
+D:\Programming\02. Datatypes\CopyrightTriangle\obj\Debug\CopyrightTriangle.exe
+D:\Programming\02. Datatypes\CopyrightTriangle\obj\Debug\CopyrightTriangle.pdb
+D:\Programming\02. Datatypes\CopyrightTriangle\bin\Debug\CopyrightTriangle.exe
+D:\Programming\02. Datatypes\CopyrightTriangle\bin\Debug\CopyrightTriangle.pdb
+D:\Programming\02. Datatypes\CopyrightTriangle\obj\Debug\09. CopyrightTriangle.csprojResolveAssemblyReference.cache

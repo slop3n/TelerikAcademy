@@ -1,0 +1,5 @@
+c:\Users\Haha\documents\visual studio 2013\Projects\Point3D\Marix\bin\Debug\Marix.exe.config
+c:\Users\Haha\documents\visual studio 2013\Projects\Point3D\Marix\bin\Debug\Marix.exe
+c:\Users\Haha\documents\visual studio 2013\Projects\Point3D\Marix\bin\Debug\Marix.pdb
+c:\Users\Haha\documents\visual studio 2013\Projects\Point3D\Marix\obj\Debug\Marix.exe
+c:\Users\Haha\documents\visual studio 2013\Projects\Point3D\Marix\obj\Debug\Marix.pdb

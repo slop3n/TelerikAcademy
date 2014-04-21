@@ -1,0 +1,5 @@
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ConsecutiveLetters\bin\Debug\ConsecutiveLetters.exe.config
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ConsecutiveLetters\bin\Debug\ConsecutiveLetters.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ConsecutiveLetters\bin\Debug\ConsecutiveLetters.pdb
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ConsecutiveLetters\obj\Debug\ConsecutiveLetters.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ConsecutiveLetters\obj\Debug\ConsecutiveLetters.pdb

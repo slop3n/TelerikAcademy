@@ -1,0 +1,6 @@
+D:\Programming\Homeworks\08. MultidimensionalArraysHomework\MultidimensionalArraysHomework\PrintMatrixVar2\bin\Debug\PrintMatrixVar2.exe.config
+D:\Programming\Homeworks\08. MultidimensionalArraysHomework\MultidimensionalArraysHomework\PrintMatrixVar2\bin\Debug\PrintMatrixVar2.exe
+D:\Programming\Homeworks\08. MultidimensionalArraysHomework\MultidimensionalArraysHomework\PrintMatrixVar2\bin\Debug\PrintMatrixVar2.pdb
+D:\Programming\Homeworks\08. MultidimensionalArraysHomework\MultidimensionalArraysHomework\PrintMatrixVar2\obj\Debug\PrintMatrixVar2.exe
+D:\Programming\Homeworks\08. MultidimensionalArraysHomework\MultidimensionalArraysHomework\PrintMatrixVar2\obj\Debug\PrintMatrixVar2.pdb
+D:\Programming\Homeworks\08. MultidimensionalArraysHomework\MultidimensionalArraysHomework\PrintMatrixVar2\obj\Debug\01b. PrintMatrixVar2.csprojResolveAssemblyReference.cache

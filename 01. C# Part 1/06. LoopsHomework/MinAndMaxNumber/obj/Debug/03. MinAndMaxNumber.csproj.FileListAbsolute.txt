@@ -1,0 +1,5 @@
+D:\Programming\06. LoopsHomework\MinAndMaxNumber\bin\Debug\MinAndMaxNumber.exe.config
+D:\Programming\06. LoopsHomework\MinAndMaxNumber\bin\Debug\MinAndMaxNumber.exe
+D:\Programming\06. LoopsHomework\MinAndMaxNumber\bin\Debug\MinAndMaxNumber.pdb
+D:\Programming\06. LoopsHomework\MinAndMaxNumber\obj\Debug\MinAndMaxNumber.exe
+D:\Programming\06. LoopsHomework\MinAndMaxNumber\obj\Debug\MinAndMaxNumber.pdb

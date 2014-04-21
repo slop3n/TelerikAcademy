@@ -1,0 +1,32 @@
+﻿body {
+}
+
+#frame{
+    
+    width:460px;
+    border-collapse:collapse;
+}
+
+#calc-icon{
+    height:15px
+}
+
+
+#minimize{
+    height:15px;
+}
+
+.button{
+    width:35px;
+    height:30px;
+}
+
+.horizontal-button{
+    width:80px;
+    height:30px;
+}
+
+.vertical-button{
+    width:35px;
+    height:60px;
+}

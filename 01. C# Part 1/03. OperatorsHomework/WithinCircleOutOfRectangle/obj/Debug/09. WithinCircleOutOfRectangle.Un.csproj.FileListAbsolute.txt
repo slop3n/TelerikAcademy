@@ -1,0 +1,6 @@
+D:\Programming\03. OperatorsHomework\WithinCircleOutOfRectangle\bin\Debug\WithinCircleOutOfRectangle.exe.config
+D:\Programming\03. OperatorsHomework\WithinCircleOutOfRectangle\bin\Debug\WithinCircleOutOfRectangle.exe
+D:\Programming\03. OperatorsHomework\WithinCircleOutOfRectangle\bin\Debug\WithinCircleOutOfRectangle.pdb
+D:\Programming\03. OperatorsHomework\WithinCircleOutOfRectangle\obj\Debug\09. WithinCircleOutOfRectangle.Un.csprojResolveAssemblyReference.cache
+D:\Programming\03. OperatorsHomework\WithinCircleOutOfRectangle\obj\Debug\WithinCircleOutOfRectangle.exe
+D:\Programming\03. OperatorsHomework\WithinCircleOutOfRectangle\obj\Debug\WithinCircleOutOfRectangle.pdb

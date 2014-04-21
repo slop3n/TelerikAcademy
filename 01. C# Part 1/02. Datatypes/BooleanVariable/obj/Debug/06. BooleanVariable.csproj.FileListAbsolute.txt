@@ -1,0 +1,14 @@
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\BooleanVariable\bin\Debug\BooleanVariable.exe
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\BooleanVariable\bin\Debug\BooleanVariable.pdb
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\BooleanVariable\obj\Debug\BooleanVariable.exe
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\BooleanVariable\obj\Debug\BooleanVariable.pdb
+D:\Programming\Datatypes\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+D:\Programming\Datatypes\BooleanVariable\obj\Debug\BooleanVariable.exe
+D:\Programming\Datatypes\BooleanVariable\obj\Debug\BooleanVariable.pdb
+D:\Programming\02. Datatypes\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+D:\Programming\02. Datatypes\BooleanVariable\obj\Debug\BooleanVariable.exe
+D:\Programming\02. Datatypes\BooleanVariable\obj\Debug\BooleanVariable.pdb
+D:\Programming\02. Datatypes\BooleanVariable\bin\Debug\BooleanVariable.exe
+D:\Programming\02. Datatypes\BooleanVariable\bin\Debug\BooleanVariable.pdb
+D:\Programming\02. Datatypes\BooleanVariable\obj\Debug\06. BooleanVariable.csprojResolveAssemblyReference.cache

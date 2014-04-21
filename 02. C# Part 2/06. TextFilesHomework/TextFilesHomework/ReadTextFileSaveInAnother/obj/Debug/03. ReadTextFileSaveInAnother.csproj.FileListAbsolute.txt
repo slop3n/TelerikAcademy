@@ -1,0 +1,5 @@
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\ReadTextFileSaveInAnother\bin\Debug\ReadTextFileSaveInAnother.exe.config
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\ReadTextFileSaveInAnother\bin\Debug\ReadTextFileSaveInAnother.exe
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\ReadTextFileSaveInAnother\bin\Debug\ReadTextFileSaveInAnother.pdb
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\ReadTextFileSaveInAnother\obj\Debug\ReadTextFileSaveInAnother.exe
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\ReadTextFileSaveInAnother\obj\Debug\ReadTextFileSaveInAnother.pdb

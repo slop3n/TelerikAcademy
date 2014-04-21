@@ -1,0 +1,6 @@
+D:\Programming\Homeworks\10. NumeralSystemsHomework\NumeralSystemsHomework\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config
+D:\Programming\Homeworks\10. NumeralSystemsHomework\NumeralSystemsHomework\DecimalToBinary\obj\Debug\DecimalToBinary.exe
+D:\Programming\Homeworks\10. NumeralSystemsHomework\NumeralSystemsHomework\DecimalToBinary\obj\Debug\DecimalToBinary.pdb
+D:\Programming\Homeworks\10. NumeralSystemsHomework\NumeralSystemsHomework\DecimalToBinary\bin\Debug\DecimalToBinary.exe
+D:\Programming\Homeworks\10. NumeralSystemsHomework\NumeralSystemsHomework\DecimalToBinary\bin\Debug\DecimalToBinary.pdb
+D:\Programming\Homeworks\10. NumeralSystemsHomework\NumeralSystemsHomework\DecimalToBinary\obj\Debug\01. DecimalToBinary.csprojResolveAssemblyReference.cache

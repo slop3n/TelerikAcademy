@@ -1,0 +1,5 @@
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\StringMethods\bin\Debug\StringMethods.exe.config
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\StringMethods\bin\Debug\StringMethods.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\StringMethods\bin\Debug\StringMethods.pdb
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\StringMethods\obj\Debug\StringMethods.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\StringMethods\obj\Debug\StringMethods.pdb

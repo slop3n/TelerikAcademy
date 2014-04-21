@@ -1,0 +1,5 @@
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ExtractDate\bin\Debug\ExtractDate.exe.config
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ExtractDate\bin\Debug\ExtractDate.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ExtractDate\bin\Debug\ExtractDate.pdb
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ExtractDate\obj\Debug\ExtractDate.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ExtractDate\obj\Debug\ExtractDate.pdb

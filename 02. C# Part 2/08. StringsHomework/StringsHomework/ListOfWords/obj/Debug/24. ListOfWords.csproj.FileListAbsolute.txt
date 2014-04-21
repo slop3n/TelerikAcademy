@@ -1,0 +1,6 @@
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ListOfWords\bin\Debug\ListOfWords.exe.config
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ListOfWords\bin\Debug\ListOfWords.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ListOfWords\bin\Debug\ListOfWords.pdb
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ListOfWords\obj\Debug\24. ListOfWords.csprojResolveAssemblyReference.cache
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ListOfWords\obj\Debug\ListOfWords.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ListOfWords\obj\Debug\ListOfWords.pdb

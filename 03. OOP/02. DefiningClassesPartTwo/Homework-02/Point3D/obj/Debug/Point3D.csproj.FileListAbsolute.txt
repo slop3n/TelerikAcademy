@@ -1,0 +1,9 @@
+c:\users\haha\documents\visual studio 2013\Projects\Point3D\Point3D\bin\Debug\Point3D.exe.config
+c:\users\haha\documents\visual studio 2013\Projects\Point3D\Point3D\obj\Debug\Point3D.csprojResolveAssemblyReference.cache
+c:\users\haha\documents\visual studio 2013\Projects\Point3D\Point3D\bin\Debug\Point3D.exe
+c:\users\haha\documents\visual studio 2013\Projects\Point3D\Point3D\bin\Debug\Point3D.pdb
+c:\users\haha\documents\visual studio 2013\Projects\Point3D\Point3D\obj\Debug\Point3D.exe
+c:\users\haha\documents\visual studio 2013\Projects\Point3D\Point3D\obj\Debug\Point3D.pdb
+D:\Programming\Homeworks\03. OOP\02. DefiningClassesPartTwo\Homework-02\Point3D\bin\Debug\Point3D.exe.config
+D:\Programming\Homeworks\03. OOP\02. DefiningClassesPartTwo\Homework-02\Point3D\obj\Debug\Point3D.exe
+D:\Programming\Homeworks\03. OOP\02. DefiningClassesPartTwo\Homework-02\Point3D\obj\Debug\Point3D.pdb

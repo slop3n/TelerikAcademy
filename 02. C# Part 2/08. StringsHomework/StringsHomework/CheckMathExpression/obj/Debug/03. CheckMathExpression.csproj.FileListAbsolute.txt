@@ -1,0 +1,5 @@
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\CheckMathExpression\bin\Debug\CheckMathExpression.exe.config
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\CheckMathExpression\bin\Debug\CheckMathExpression.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\CheckMathExpression\bin\Debug\CheckMathExpression.pdb
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\CheckMathExpression\obj\Debug\CheckMathExpression.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\CheckMathExpression\obj\Debug\CheckMathExpression.pdb

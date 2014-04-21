@@ -1,0 +1,5 @@
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\Dictionary\bin\Debug\Dictionary.exe.config
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\Dictionary\bin\Debug\Dictionary.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\Dictionary\bin\Debug\Dictionary.pdb
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\Dictionary\obj\Debug\Dictionary.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\Dictionary\obj\Debug\Dictionary.pdb

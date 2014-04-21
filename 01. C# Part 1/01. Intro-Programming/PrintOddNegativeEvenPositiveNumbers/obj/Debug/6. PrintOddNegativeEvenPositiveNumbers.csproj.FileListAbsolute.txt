@@ -1,0 +1,9 @@
+D:\Programming\Intro-Programming\PrintOddNegativeEvenPositiveNumbers\bin\Debug\PrintOddNegativeEvenPositiveNumbers.exe.config
+D:\Programming\Intro-Programming\PrintOddNegativeEvenPositiveNumbers\obj\Debug\PrintOddNegativeEvenPositiveNumbers.exe
+D:\Programming\Intro-Programming\PrintOddNegativeEvenPositiveNumbers\obj\Debug\PrintOddNegativeEvenPositiveNumbers.pdb
+D:\Programming\Intro-Programming\PrintOddNegativeEvenPositiveNumbers\bin\Debug\PrintOddNegativeEvenPositiveNumbers.exe
+D:\Programming\Intro-Programming\PrintOddNegativeEvenPositiveNumbers\bin\Debug\PrintOddNegativeEvenPositiveNumbers.pdb
+D:\Programming\Intro-Programming\PrintOddNegativeEvenPositiveNumbers\obj\Debug\6. PrintOddNegativeEvenPositiveNumbers.csprojResolveAssemblyReference.cache
+D:\Programming\01. Intro-Programming\PrintOddNegativeEvenPositiveNumbers\bin\Debug\PrintOddNegativeEvenPositiveNumbers.exe.config
+D:\Programming\01. Intro-Programming\PrintOddNegativeEvenPositiveNumbers\obj\Debug\PrintOddNegativeEvenPositiveNumbers.exe
+D:\Programming\01. Intro-Programming\PrintOddNegativeEvenPositiveNumbers\obj\Debug\PrintOddNegativeEvenPositiveNumbers.pdb

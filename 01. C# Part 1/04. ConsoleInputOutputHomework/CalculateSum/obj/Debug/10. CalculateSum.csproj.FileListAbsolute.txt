@@ -1,0 +1,7 @@
+D:\Programming\04 ConsoleInputOutputHomework\CalculateSum\bin\Debug\CalculateSum.exe.config
+D:\Programming\04. ConsoleInputOutputHomework\CalculateSum\bin\Debug\CalculateSum.exe.config
+D:\Programming\04. ConsoleInputOutputHomework\CalculateSum\bin\Debug\CalculateSum.exe
+D:\Programming\04. ConsoleInputOutputHomework\CalculateSum\bin\Debug\CalculateSum.pdb
+D:\Programming\04. ConsoleInputOutputHomework\CalculateSum\obj\Debug\CalculateSum.exe
+D:\Programming\04. ConsoleInputOutputHomework\CalculateSum\obj\Debug\CalculateSum.pdb
+D:\Programming\04. ConsoleInputOutputHomework\CalculateSum\obj\Debug\10. CalculateSum.csprojResolveAssemblyReference.cache

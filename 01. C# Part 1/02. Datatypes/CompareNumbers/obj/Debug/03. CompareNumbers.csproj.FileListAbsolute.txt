@@ -1,0 +1,17 @@
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\CompareNumbers\bin\Debug\CompareNumbers.exe.config
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\CompareNumbers\bin\Debug\CompareNumbers.exe
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\CompareNumbers\bin\Debug\CompareNumbers.pdb
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\CompareNumbers\obj\Debug\CompareNumbers.exe
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\CompareNumbers\obj\Debug\CompareNumbers.pdb
+D:\Programming\Datatypes\CompareNumbers\bin\Debug\CompareNumbers.exe.config
+D:\Programming\Datatypes\CompareNumbers\obj\Debug\CompareNumbers.exe
+D:\Programming\Datatypes\CompareNumbers\obj\Debug\CompareNumbers.pdb
+D:\Programming\Datatypes\CompareNumbers\obj\Debug\03. CompareNumbers.csprojResolveAssemblyReference.cache
+D:\Programming\Datatypes\CompareNumbers\bin\Debug\CompareNumbers.exe
+D:\Programming\Datatypes\CompareNumbers\bin\Debug\CompareNumbers.pdb
+D:\Programming\02. Datatypes\CompareNumbers\bin\Debug\CompareNumbers.exe.config
+D:\Programming\02. Datatypes\CompareNumbers\obj\Debug\CompareNumbers.exe
+D:\Programming\02. Datatypes\CompareNumbers\obj\Debug\CompareNumbers.pdb
+D:\Programming\02. Datatypes\CompareNumbers\bin\Debug\CompareNumbers.exe
+D:\Programming\02. Datatypes\CompareNumbers\bin\Debug\CompareNumbers.pdb
+D:\Programming\02. Datatypes\CompareNumbers\obj\Debug\03. CompareNumbers.csprojResolveAssemblyReference.cache

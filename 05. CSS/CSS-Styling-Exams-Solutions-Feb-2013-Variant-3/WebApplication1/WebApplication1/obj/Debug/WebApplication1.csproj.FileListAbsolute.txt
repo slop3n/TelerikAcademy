@@ -1,0 +1,6 @@
+D:\Programming\Homeworks\05. CSS\CSS-Styling-Exams-Solutions-Feb-2013-Variant-3\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Programming\Homeworks\05. CSS\CSS-Styling-Exams-Solutions-Feb-2013-Variant-3\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Programming\Homeworks\05. CSS\CSS-Styling-Exams-Solutions-Feb-2013-Variant-3\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Programming\Homeworks\05. CSS\CSS-Styling-Exams-Solutions-Feb-2013-Variant-3\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\Programming\Homeworks\05. CSS\CSS-Styling-Exams-Solutions-Feb-2013-Variant-3\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Programming\Homeworks\05. CSS\CSS-Styling-Exams-Solutions-Feb-2013-Variant-3\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

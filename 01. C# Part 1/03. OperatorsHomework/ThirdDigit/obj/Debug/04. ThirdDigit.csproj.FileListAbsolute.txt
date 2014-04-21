@@ -1,0 +1,13 @@
+D:\Programming\OperatorsHomework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Programming\03. OperatorsHomework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Programming\03. OperatorsHomework\ConsoleApplication1\obj\Debug\04. ThirdDigit.csprojResolveAssemblyReference.cache
+D:\Programming\03. OperatorsHomework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Programming\03. OperatorsHomework\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Programming\03. OperatorsHomework\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Programming\03. OperatorsHomework\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Programming\03. OperatorsHomework\ThirdDigit\bin\Debug\ConsoleApplication1.exe.config
+D:\Programming\03. OperatorsHomework\ThirdDigit\obj\Debug\ConsoleApplication1.exe
+D:\Programming\03. OperatorsHomework\ThirdDigit\obj\Debug\ConsoleApplication1.pdb
+D:\Programming\03. OperatorsHomework\ThirdDigit\bin\Debug\ConsoleApplication1.exe
+D:\Programming\03. OperatorsHomework\ThirdDigit\bin\Debug\ConsoleApplication1.pdb
+D:\Programming\03. OperatorsHomework\ThirdDigit\obj\Debug\04. ThirdDigit.csprojResolveAssemblyReference.cache

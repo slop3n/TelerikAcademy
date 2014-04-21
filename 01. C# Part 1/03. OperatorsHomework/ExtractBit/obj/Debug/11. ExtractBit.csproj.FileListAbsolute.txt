@@ -1,0 +1,6 @@
+D:\Programming\03. OperatorsHomework\ExtractBit\bin\Debug\ExtractBit.exe.config
+D:\Programming\03. OperatorsHomework\ExtractBit\bin\Debug\ExtractBit.exe
+D:\Programming\03. OperatorsHomework\ExtractBit\bin\Debug\ExtractBit.pdb
+D:\Programming\03. OperatorsHomework\ExtractBit\obj\Debug\11. ExtractBit.csprojResolveAssemblyReference.cache
+D:\Programming\03. OperatorsHomework\ExtractBit\obj\Debug\ExtractBit.exe
+D:\Programming\03. OperatorsHomework\ExtractBit\obj\Debug\ExtractBit.pdb

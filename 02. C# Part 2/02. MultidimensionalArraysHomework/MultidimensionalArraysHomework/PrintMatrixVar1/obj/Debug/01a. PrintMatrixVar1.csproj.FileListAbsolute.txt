@@ -1,0 +1,5 @@
+D:\Programming\Homeworks\08. MultidimensionalArraysHomework\MultidimensionalArraysHomework\PrintMatrixVar1\bin\Debug\PrintMatrixVar1.exe.config
+D:\Programming\Homeworks\08. MultidimensionalArraysHomework\MultidimensionalArraysHomework\PrintMatrixVar1\bin\Debug\PrintMatrixVar1.exe
+D:\Programming\Homeworks\08. MultidimensionalArraysHomework\MultidimensionalArraysHomework\PrintMatrixVar1\bin\Debug\PrintMatrixVar1.pdb
+D:\Programming\Homeworks\08. MultidimensionalArraysHomework\MultidimensionalArraysHomework\PrintMatrixVar1\obj\Debug\PrintMatrixVar1.exe
+D:\Programming\Homeworks\08. MultidimensionalArraysHomework\MultidimensionalArraysHomework\PrintMatrixVar1\obj\Debug\PrintMatrixVar1.pdb

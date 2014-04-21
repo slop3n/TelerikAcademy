@@ -1,0 +1,18 @@
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\HelloWorld\obj\Debug\07. HelloWorld.csprojResolveAssemblyReference.cache
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\HelloWorld\bin\Debug\HelloWorld.exe.config
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\HelloWorld\bin\Debug\HelloWorld.exe
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\HelloWorld\bin\Debug\HelloWorld.pdb
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\HelloWorld\obj\Debug\HelloWorld.exe
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\Programming\Datatypes\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Programming\Datatypes\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Programming\Datatypes\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\Programming\Datatypes\HelloWorld\obj\Debug\07. HelloWorld.csprojResolveAssemblyReference.cache
+D:\Programming\Datatypes\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Programming\Datatypes\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Programming\02. Datatypes\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Programming\02. Datatypes\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Programming\02. Datatypes\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\Programming\02. Datatypes\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Programming\02. Datatypes\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Programming\02. Datatypes\HelloWorld\obj\Debug\07. HelloWorld.csprojResolveAssemblyReference.cache

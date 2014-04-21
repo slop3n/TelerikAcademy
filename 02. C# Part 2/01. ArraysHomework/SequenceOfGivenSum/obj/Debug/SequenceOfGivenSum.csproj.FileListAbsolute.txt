@@ -1,0 +1,1 @@
+D:\Programming\Homeworks\07. ArraysHomework\SequenceOfGivenSum\bin\Debug\SequenceOfGivenSum.exe.config

@@ -1,0 +1,8 @@
+D:\Programming\OperatorsHomework\OddOrEven\bin\Debug\OddOrEven.exe.config
+D:\Programming\OperatorsHomework\OddOrEven\bin\Debug\OddOrEven.exe
+D:\Programming\OperatorsHomework\OddOrEven\bin\Debug\OddOrEven.pdb
+D:\Programming\OperatorsHomework\OddOrEven\obj\Debug\OddOrEven.exe
+D:\Programming\OperatorsHomework\OddOrEven\obj\Debug\OddOrEven.pdb
+D:\Programming\03. OperatorsHomework\OddOrEven\bin\Debug\OddOrEven.exe.config
+D:\Programming\03. OperatorsHomework\OddOrEven\obj\Debug\OddOrEven.exe
+D:\Programming\03. OperatorsHomework\OddOrEven\obj\Debug\OddOrEven.pdb

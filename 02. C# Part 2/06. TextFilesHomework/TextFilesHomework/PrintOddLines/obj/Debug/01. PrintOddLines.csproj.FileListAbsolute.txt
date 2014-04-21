@@ -1,0 +1,6 @@
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\PrintOddLines\bin\Debug\PrintOddLines.exe.config
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\PrintOddLines\bin\Debug\PrintOddLines.exe
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\PrintOddLines\bin\Debug\PrintOddLines.pdb
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\PrintOddLines\obj\Debug\01. PrintOddLines.csprojResolveAssemblyReference.cache
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\PrintOddLines\obj\Debug\PrintOddLines.exe
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\PrintOddLines\obj\Debug\PrintOddLines.pdb

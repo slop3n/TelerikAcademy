@@ -1,0 +1,15 @@
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\FiveVariables\bin\Debug\FiveVariables.exe.config
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\FiveVariables\bin\Debug\FiveVariables.exe
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\FiveVariables\bin\Debug\FiveVariables.pdb
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\FiveVariables\obj\Debug\01. FiveVariables.csprojResolveAssemblyReference.cache
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\FiveVariables\obj\Debug\FiveVariables.exe
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\FiveVariables\obj\Debug\FiveVariables.pdb
+D:\Programming\Datatypes\FiveVariables\bin\Debug\FiveVariables.exe.config
+D:\Programming\Datatypes\FiveVariables\obj\Debug\FiveVariables.exe
+D:\Programming\Datatypes\FiveVariables\obj\Debug\FiveVariables.pdb
+D:\Programming\02. Datatypes\FiveVariables\bin\Debug\FiveVariables.exe.config
+D:\Programming\02. Datatypes\FiveVariables\obj\Debug\FiveVariables.exe
+D:\Programming\02. Datatypes\FiveVariables\obj\Debug\FiveVariables.pdb
+D:\Programming\02. Datatypes\FiveVariables\bin\Debug\FiveVariables.exe
+D:\Programming\02. Datatypes\FiveVariables\bin\Debug\FiveVariables.pdb
+D:\Programming\02. Datatypes\FiveVariables\obj\Debug\01. FiveVariables.csprojResolveAssemblyReference.cache

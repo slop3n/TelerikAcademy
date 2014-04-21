@@ -1,0 +1,6 @@
+D:\Programming\06. LoopsHomework\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe.config
+D:\Programming\06. LoopsHomework\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe
+D:\Programming\06. LoopsHomework\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.pdb
+D:\Programming\06. LoopsHomework\GreatestCommonDivisor\obj\Debug\08. GreatestCommonDivisor.csprojResolveAssemblyReference.cache
+D:\Programming\06. LoopsHomework\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.exe
+D:\Programming\06. LoopsHomework\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.pdb

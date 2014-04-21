@@ -1,0 +1,6 @@
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\HelloPerson\bin\Debug\HelloPerson.exe.config
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\HelloPerson\bin\Debug\HelloPerson.exe
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\HelloPerson\bin\Debug\HelloPerson.pdb
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\HelloPerson\obj\Debug\01. HelloPerson.csprojResolveAssemblyReference.cache
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\HelloPerson\obj\Debug\HelloPerson.exe
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\HelloPerson\obj\Debug\HelloPerson.pdb

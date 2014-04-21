@@ -1,0 +1,75 @@
+﻿body {
+    font-size:18px;
+    font-family:Arial;
+}
+
+.table {
+    border: 1px solid black;
+    padding: 5px;
+    width:640px;
+    float:left;
+}
+
+fieldset{
+    width: 280px;
+}
+
+body>div>div>div>div>fieldset{
+    display:inline;
+}
+
+legend{
+    text-align:center;
+}
+
+.table-cell{
+    float:left;
+    border:1px solid black;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: left;
+    padding-top:42px;
+    padding-left:7px;
+}
+
+.hdd, .ram, .cpu{
+    margin-top:8px;
+}
+
+.price{
+    padding-left:48px;
+}
+
+img {
+    height:100px;
+}
+
+.scrollers{
+    float:left;
+    padding-left:30px;
+    padding-top:100px;
+}
+
+input{
+    margin-left:10px;
+    width:200px;
+}
+
+span{
+    padding-left:20px;
+}
+
+header{
+    text-align:center;
+    font-weight:bold;
+    font-size:1.5em;
+}
+
+header a {
+    color:#0094ff;
+}

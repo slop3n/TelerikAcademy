@@ -1,0 +1,9 @@
+D:\Programming\04. ConsoleInputOutputHomework\ThreeIntegers\bin\Debug\ThreeIntegers.exe.config
+D:\Programming\04. ConsoleInputOutputHomework\ThreeIntegers\bin\Debug\ThreeIntegers.exe
+D:\Programming\04. ConsoleInputOutputHomework\ThreeIntegers\bin\Debug\ThreeIntegers.pdb
+D:\Programming\04. ConsoleInputOutputHomework\ThreeIntegers\obj\Debug\01. ThreeIntegers.csprojResolveAssemblyReference.cache
+D:\Programming\04. ConsoleInputOutputHomework\ThreeIntegers\obj\Debug\ThreeIntegers.exe
+D:\Programming\04. ConsoleInputOutputHomework\ThreeIntegers\obj\Debug\ThreeIntegers.pdb
+D:\Programming\Homeworks\C#1\04. ConsoleInputOutputHomework\ThreeIntegers\bin\Debug\ThreeIntegers.exe.config
+D:\Programming\Homeworks\C#1\04. ConsoleInputOutputHomework\ThreeIntegers\obj\Debug\ThreeIntegers.exe
+D:\Programming\Homeworks\C#1\04. ConsoleInputOutputHomework\ThreeIntegers\obj\Debug\ThreeIntegers.pdb

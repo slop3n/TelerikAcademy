@@ -1,0 +1,6 @@
+D:\Programming\06. LoopsHomework\TwoFactorielsPart2\bin\Debug\TwoFactorielsPart2.exe.config
+D:\Programming\06. LoopsHomework\TwoFactorielsPart2\bin\Debug\TwoFactorielsPart2.exe
+D:\Programming\06. LoopsHomework\TwoFactorielsPart2\bin\Debug\TwoFactorielsPart2.pdb
+D:\Programming\06. LoopsHomework\TwoFactorielsPart2\obj\Debug\05. TwoFactorialsPart2.csprojResolveAssemblyReference.cache
+D:\Programming\06. LoopsHomework\TwoFactorielsPart2\obj\Debug\TwoFactorielsPart2.exe
+D:\Programming\06. LoopsHomework\TwoFactorielsPart2\obj\Debug\TwoFactorielsPart2.pdb

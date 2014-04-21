@@ -1,0 +1,6 @@
+D:\Programming\04. ConsoleInputOutputHomework\GreaterNumber\bin\Debug\GreaterNumber.exe.config
+D:\Programming\04. ConsoleInputOutputHomework\GreaterNumber\bin\Debug\GreaterNumber.exe
+D:\Programming\04. ConsoleInputOutputHomework\GreaterNumber\bin\Debug\GreaterNumber.pdb
+D:\Programming\04. ConsoleInputOutputHomework\GreaterNumber\obj\Debug\05. GreaterNumber.csprojResolveAssemblyReference.cache
+D:\Programming\04. ConsoleInputOutputHomework\GreaterNumber\obj\Debug\GreaterNumber.exe
+D:\Programming\04. ConsoleInputOutputHomework\GreaterNumber\obj\Debug\GreaterNumber.pdb

@@ -1,0 +1,6 @@
+D:\Programming\Homeworks\07. ArraysHomework\SortArrayOfStrings\bin\Debug\SortArrayOfStrings.exe.config
+D:\Programming\Homeworks\07. ArraysHomework\SortArrayOfStrings\obj\Debug\14. SortArrayOfStrings.csprojResolveAssemblyReference.cache
+D:\Programming\Homeworks\07. ArraysHomework\SortArrayOfStrings\bin\Debug\SortArrayOfStrings.exe
+D:\Programming\Homeworks\07. ArraysHomework\SortArrayOfStrings\bin\Debug\SortArrayOfStrings.pdb
+D:\Programming\Homeworks\07. ArraysHomework\SortArrayOfStrings\obj\Debug\SortArrayOfStrings.exe
+D:\Programming\Homeworks\07. ArraysHomework\SortArrayOfStrings\obj\Debug\SortArrayOfStrings.pdb

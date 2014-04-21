@@ -1,0 +1,9 @@
+D:\Programming\Datatypes\NullValues\bin\Debug\NullValues.exe.config
+D:\Programming\Datatypes\NullValues\bin\Debug\NullValues.exe
+D:\Programming\Datatypes\NullValues\bin\Debug\NullValues.pdb
+D:\Programming\Datatypes\NullValues\obj\Debug\13. NullValues.csprojResolveAssemblyReference.cache
+D:\Programming\Datatypes\NullValues\obj\Debug\NullValues.exe
+D:\Programming\Datatypes\NullValues\obj\Debug\NullValues.pdb
+D:\Programming\02. Datatypes\NullValues\bin\Debug\NullValues.exe.config
+D:\Programming\02. Datatypes\NullValues\obj\Debug\NullValues.exe
+D:\Programming\02. Datatypes\NullValues\obj\Debug\13. NullValues.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\DistanceBetweenDates\bin\Debug\DistanceBetweenDates.exe.config
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\DistanceBetweenDates\bin\Debug\DistanceBetweenDates.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\DistanceBetweenDates\bin\Debug\DistanceBetweenDates.pdb
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\DistanceBetweenDates\obj\Debug\DistanceBetweenDates.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\DistanceBetweenDates\obj\Debug\DistanceBetweenDates.pdb

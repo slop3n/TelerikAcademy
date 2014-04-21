@@ -1,0 +1,5 @@
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\DeleteOddLines\bin\Debug\DeleteOddLines.exe.config
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\DeleteOddLines\bin\Debug\DeleteOddLines.exe
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\DeleteOddLines\bin\Debug\DeleteOddLines.pdb
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\DeleteOddLines\obj\Debug\DeleteOddLines.exe
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\DeleteOddLines\obj\Debug\DeleteOddLines.pdb

@@ -1,0 +1,12 @@
+D:\Programming\Datatypes\ChangeNumbers\bin\Debug\ChangeNumbers.exe.config
+D:\Programming\Datatypes\ChangeNumbers\bin\Debug\ChangeNumbers.exe
+D:\Programming\Datatypes\ChangeNumbers\bin\Debug\ChangeNumbers.pdb
+D:\Programming\Datatypes\ChangeNumbers\obj\Debug\11. ExhangeValues.csprojResolveAssemblyReference.cache
+D:\Programming\Datatypes\ChangeNumbers\obj\Debug\ChangeNumbers.exe
+D:\Programming\Datatypes\ChangeNumbers\obj\Debug\ChangeNumbers.pdb
+D:\Programming\02. Datatypes\ChangeNumbers\bin\Debug\ChangeNumbers.exe.config
+D:\Programming\02. Datatypes\ChangeNumbers\obj\Debug\ChangeNumbers.exe
+D:\Programming\02. Datatypes\ChangeNumbers\obj\Debug\ChangeNumbers.pdb
+D:\Programming\02. Datatypes\ChangeNumbers\bin\Debug\ChangeNumbers.exe
+D:\Programming\02. Datatypes\ChangeNumbers\bin\Debug\ChangeNumbers.pdb
+D:\Programming\02. Datatypes\ChangeNumbers\obj\Debug\11. ExhangeValues.csprojResolveAssemblyReference.cache

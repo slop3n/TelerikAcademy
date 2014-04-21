@@ -1,0 +1,9 @@
+D:\Programming\05. ConditionalStatementsHomework\Score\bin\Debug\Score.exe.config
+D:\Programming\05. ConditionalStatementsHomework\Score\bin\Debug\Score.exe
+D:\Programming\05. ConditionalStatementsHomework\Score\bin\Debug\Score.pdb
+D:\Programming\05. ConditionalStatementsHomework\Score\obj\Debug\Score.exe
+D:\Programming\05. ConditionalStatementsHomework\Score\obj\Debug\Score.pdb
+D:\Programming\05. ConditionalStatementsHomework\Score\obj\Debug\10. Score.csprojResolveAssemblyReference.cache
+D:\Programming\Homeworks\C#1\05. ConditionalStatementsHomework\Score\bin\Debug\Score.exe.config
+D:\Programming\Homeworks\C#1\05. ConditionalStatementsHomework\Score\obj\Debug\Score.exe
+D:\Programming\Homeworks\C#1\05. ConditionalStatementsHomework\Score\obj\Debug\Score.pdb

@@ -1,0 +1,6 @@
+D:\Programming\03. OperatorsHomework\HoldValue\bin\Debug\HoldValue.exe.config
+D:\Programming\03. OperatorsHomework\HoldValue\obj\Debug\HoldValue.exe
+D:\Programming\03. OperatorsHomework\HoldValue\obj\Debug\HoldValue.pdb
+D:\Programming\03. OperatorsHomework\HoldValue\bin\Debug\HoldValue.exe
+D:\Programming\03. OperatorsHomework\HoldValue\bin\Debug\HoldValue.pdb
+D:\Programming\03. OperatorsHomework\HoldValue\obj\Debug\12. HoldValue.NOT.csprojResolveAssemblyReference.cache

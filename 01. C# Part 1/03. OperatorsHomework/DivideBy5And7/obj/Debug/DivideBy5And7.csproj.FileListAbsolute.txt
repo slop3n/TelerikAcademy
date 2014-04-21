@@ -1,0 +1,6 @@
+D:\Programming\OperatorsHomework\DivideBy5And7\bin\Debug\DivideBy5And7.exe.config
+D:\Programming\OperatorsHomework\DivideBy5And7\bin\Debug\DivideBy5And7.exe
+D:\Programming\OperatorsHomework\DivideBy5And7\bin\Debug\DivideBy5And7.pdb
+D:\Programming\OperatorsHomework\DivideBy5And7\obj\Debug\DivideBy5And7.csprojResolveAssemblyReference.cache
+D:\Programming\OperatorsHomework\DivideBy5And7\obj\Debug\DivideBy5And7.exe
+D:\Programming\OperatorsHomework\DivideBy5And7\obj\Debug\DivideBy5And7.pdb

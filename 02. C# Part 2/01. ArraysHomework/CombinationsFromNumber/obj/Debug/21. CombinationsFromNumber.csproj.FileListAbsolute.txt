@@ -1,0 +1,5 @@
+D:\Programming\Homeworks\07. ArraysHomework\CombinationsFromNumber\bin\Debug\CombinationsFromNumber.exe.config
+D:\Programming\Homeworks\07. ArraysHomework\CombinationsFromNumber\bin\Debug\CombinationsFromNumber.exe
+D:\Programming\Homeworks\07. ArraysHomework\CombinationsFromNumber\bin\Debug\CombinationsFromNumber.pdb
+D:\Programming\Homeworks\07. ArraysHomework\CombinationsFromNumber\obj\Debug\CombinationsFromNumber.exe
+D:\Programming\Homeworks\07. ArraysHomework\CombinationsFromNumber\obj\Debug\CombinationsFromNumber.pdb

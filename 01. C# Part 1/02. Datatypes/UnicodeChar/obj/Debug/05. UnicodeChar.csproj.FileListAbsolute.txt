@@ -1,0 +1,14 @@
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\UnicodeChar\bin\Debug\UnicodeChar.exe.config
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\UnicodeChar\bin\Debug\UnicodeChar.exe
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\UnicodeChar\bin\Debug\UnicodeChar.pdb
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\UnicodeChar\obj\Debug\UnicodeChar.exe
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\UnicodeChar\obj\Debug\UnicodeChar.pdb
+D:\Programming\Datatypes\UnicodeChar\bin\Debug\UnicodeChar.exe.config
+D:\Programming\Datatypes\UnicodeChar\obj\Debug\UnicodeChar.exe
+D:\Programming\Datatypes\UnicodeChar\obj\Debug\UnicodeChar.pdb
+D:\Programming\02. Datatypes\UnicodeChar\bin\Debug\UnicodeChar.exe.config
+D:\Programming\02. Datatypes\UnicodeChar\obj\Debug\UnicodeChar.exe
+D:\Programming\02. Datatypes\UnicodeChar\obj\Debug\UnicodeChar.pdb
+D:\Programming\02. Datatypes\UnicodeChar\bin\Debug\UnicodeChar.exe
+D:\Programming\02. Datatypes\UnicodeChar\bin\Debug\UnicodeChar.pdb
+D:\Programming\02. Datatypes\UnicodeChar\obj\Debug\05. UnicodeChar.csprojResolveAssemblyReference.cache

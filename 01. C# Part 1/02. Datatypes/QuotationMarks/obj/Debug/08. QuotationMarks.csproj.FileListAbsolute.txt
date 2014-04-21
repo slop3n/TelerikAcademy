@@ -1,0 +1,14 @@
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\QuotationMarks\bin\Debug\QuotationMarks.exe.config
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\QuotationMarks\bin\Debug\QuotationMarks.exe
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\QuotationMarks\bin\Debug\QuotationMarks.pdb
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\QuotationMarks\obj\Debug\QuotationMarks.exe
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\QuotationMarks\obj\Debug\QuotationMarks.pdb
+D:\Programming\Datatypes\QuotationMarks\bin\Debug\QuotationMarks.exe.config
+D:\Programming\Datatypes\QuotationMarks\obj\Debug\QuotationMarks.exe
+D:\Programming\Datatypes\QuotationMarks\obj\Debug\QuotationMarks.pdb
+D:\Programming\02. Datatypes\QuotationMarks\bin\Debug\QuotationMarks.exe.config
+D:\Programming\02. Datatypes\QuotationMarks\obj\Debug\QuotationMarks.exe
+D:\Programming\02. Datatypes\QuotationMarks\obj\Debug\QuotationMarks.pdb
+D:\Programming\02. Datatypes\QuotationMarks\bin\Debug\QuotationMarks.exe
+D:\Programming\02. Datatypes\QuotationMarks\bin\Debug\QuotationMarks.pdb
+D:\Programming\02. Datatypes\QuotationMarks\obj\Debug\08. QuotationMarks.csprojResolveAssemblyReference.cache

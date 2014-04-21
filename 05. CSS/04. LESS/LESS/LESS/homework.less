@@ -1,0 +1,145 @@
+﻿body {
+    font-size: 18px;
+    background: #d08cf7; /* Old browsers */
+    background: -moz-linear-gradient(top, #d08cf7 0%, #9215f2 21%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#d08cf7), color-stop(21%,#9215f2)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #d08cf7 0%,#9215f2 21%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #d08cf7 0%,#9215f2 21%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #d08cf7 0%,#9215f2 21%); /* IE10+ */
+    background: linear-gradient(to bottom, #d08cf7 0%,#9215f2 21%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d08cf7', endColorstr='#9215f2',GradientType=0 ); /* IE6-9 */
+    color: white;
+}
+
+a {
+    color: #D091FB;
+}
+
+#logo-container {
+    float: left;
+}
+
+#reg-form-container {
+    float: right;
+    padding-top: 15px;
+    padding-right: 50px;
+    text-align: center;
+
+    input {
+        background-color: #d08cf7;
+        border: 1px solid #8747B7;
+        border-radius: 10px;
+        width: 150px;
+    }
+
+    button {
+        background-color: #d08cf7;
+        border-radius: 10px;
+        border: 1px solid #8747B7;
+        padding: 4px 10px;
+        color: white;
+        font-weight: bold;
+    }
+}
+
+#main-nav-list {
+    clear: both;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px 15px;
+    width: 75%;
+    margin-left: 30px;
+
+    a {
+        color: #fff;
+        text-decoration: none;
+        margin-right: 10px;
+    }
+
+    li {
+        display: inline;
+    }
+}
+
+.sub-nav-list {
+    display: none;
+}
+
+#main-nav-list {
+    li ul li{
+        display:block;
+    }
+
+    a:hover + ul {
+        display: block;
+    }
+}
+
+
+section {
+    float: left;
+    width: 72%;
+
+    article {
+        border: 1px solid black;
+        border-radius: 10px;
+        padding: 20px;
+        padding-top: 0px;
+        margin-top: 20px;
+        margin-right: 0px;
+
+        h1 {
+            font-size: 1.5em;
+        }
+
+        footer {
+            text-align: right;
+
+            a {
+                text-decoration: none;
+            }
+        }
+    }
+}
+
+aside {
+    float: right;
+    width: 27%;
+    margin-left: 0px;
+
+    ul {
+        margin-left: 0px;
+        padding: 0px;
+
+        li {
+            padding-left: 0px;
+            list-style: none;
+            margin: 10px;
+            border: 1px solid black;
+            padding: 10px;
+            border-radius: 8px;
+
+            h2 {
+                margin: 10px;
+            }
+
+            ul {
+                li {
+                    list-style: url("images/li-dot.png");
+                    border: none;
+                    margin: 0px;
+                    padding: 0px;
+                    margin-left: 30px;
+                    padding-left: 10px;
+                }
+            }
+        }
+    }
+}
+
+body footer p {
+    clear: both;
+    text-align: center;
+    font-weight: bold;
+}

@@ -1,0 +1,14 @@
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\HexNumber\bin\Debug\HexNumber.exe.config
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\HexNumber\bin\Debug\HexNumber.exe
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\HexNumber\bin\Debug\HexNumber.pdb
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\HexNumber\obj\Debug\HexNumber.exe
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\HexNumber\obj\Debug\HexNumber.pdb
+D:\Programming\Datatypes\HexNumber\bin\Debug\HexNumber.exe.config
+D:\Programming\Datatypes\HexNumber\obj\Debug\HexNumber.exe
+D:\Programming\Datatypes\HexNumber\obj\Debug\HexNumber.pdb
+D:\Programming\02. Datatypes\HexNumber\bin\Debug\HexNumber.exe.config
+D:\Programming\02. Datatypes\HexNumber\obj\Debug\HexNumber.exe
+D:\Programming\02. Datatypes\HexNumber\obj\Debug\HexNumber.pdb
+D:\Programming\02. Datatypes\HexNumber\bin\Debug\HexNumber.exe
+D:\Programming\02. Datatypes\HexNumber\bin\Debug\HexNumber.pdb
+D:\Programming\02. Datatypes\HexNumber\obj\Debug\04. HexNumber.csprojResolveAssemblyReference.cache

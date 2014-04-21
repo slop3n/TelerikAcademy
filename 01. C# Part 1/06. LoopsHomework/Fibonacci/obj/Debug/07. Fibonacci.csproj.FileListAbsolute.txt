@@ -1,0 +1,6 @@
+D:\Programming\06. LoopsHomework\Fibonacci\bin\Debug\Fibonacci.exe.config
+D:\Programming\06. LoopsHomework\Fibonacci\bin\Debug\Fibonacci.exe
+D:\Programming\06. LoopsHomework\Fibonacci\bin\Debug\Fibonacci.pdb
+D:\Programming\06. LoopsHomework\Fibonacci\obj\Debug\Fibonacci.exe
+D:\Programming\06. LoopsHomework\Fibonacci\obj\Debug\Fibonacci.pdb
+D:\Programming\06. LoopsHomework\Fibonacci\obj\Debug\07. Fibonacci.csprojResolveAssemblyReference.cache

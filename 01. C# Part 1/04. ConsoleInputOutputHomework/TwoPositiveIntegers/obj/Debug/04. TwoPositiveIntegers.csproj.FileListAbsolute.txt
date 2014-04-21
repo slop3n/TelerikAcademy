@@ -1,0 +1,6 @@
+D:\Programming\04. ConsoleInputOutputHomework\TwoPositiveIntegers\bin\Debug\TwoPositiveIntegers.exe.config
+D:\Programming\04. ConsoleInputOutputHomework\TwoPositiveIntegers\bin\Debug\TwoPositiveIntegers.exe
+D:\Programming\04. ConsoleInputOutputHomework\TwoPositiveIntegers\bin\Debug\TwoPositiveIntegers.pdb
+D:\Programming\04. ConsoleInputOutputHomework\TwoPositiveIntegers\obj\Debug\04. TwoPositiveIntegers.csprojResolveAssemblyReference.cache
+D:\Programming\04. ConsoleInputOutputHomework\TwoPositiveIntegers\obj\Debug\TwoPositiveIntegers.exe
+D:\Programming\04. ConsoleInputOutputHomework\TwoPositiveIntegers\obj\Debug\TwoPositiveIntegers.pdb

@@ -1,0 +1,1 @@
+D:\Programming\Homeworks\07. ArraysHomework\SumOfSubsetElements\bin\Debug\SumOfSubsetElements.exe.config

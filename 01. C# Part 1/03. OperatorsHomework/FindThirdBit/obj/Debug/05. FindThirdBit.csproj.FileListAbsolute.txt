@@ -1,0 +1,6 @@
+D:\Programming\03. OperatorsHomework\FindThirdBit\bin\Debug\FindThirdBit.exe.config
+D:\Programming\03. OperatorsHomework\FindThirdBit\bin\Debug\FindThirdBit.exe
+D:\Programming\03. OperatorsHomework\FindThirdBit\bin\Debug\FindThirdBit.pdb
+D:\Programming\03. OperatorsHomework\FindThirdBit\obj\Debug\05. FindThirdBit.csprojResolveAssemblyReference.cache
+D:\Programming\03. OperatorsHomework\FindThirdBit\obj\Debug\FindThirdBit.exe
+D:\Programming\03. OperatorsHomework\FindThirdBit\obj\Debug\FindThirdBit.pdb

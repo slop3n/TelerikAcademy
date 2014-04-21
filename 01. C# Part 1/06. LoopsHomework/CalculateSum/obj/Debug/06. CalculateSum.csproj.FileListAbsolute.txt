@@ -1,0 +1,6 @@
+D:\Programming\06. LoopsHomework\CalculateSum\bin\Debug\CalculateSum.exe.config
+D:\Programming\06. LoopsHomework\CalculateSum\bin\Debug\CalculateSum.exe
+D:\Programming\06. LoopsHomework\CalculateSum\bin\Debug\CalculateSum.pdb
+D:\Programming\06. LoopsHomework\CalculateSum\obj\Debug\06. CalculateSum.csprojResolveAssemblyReference.cache
+D:\Programming\06. LoopsHomework\CalculateSum\obj\Debug\CalculateSum.exe
+D:\Programming\06. LoopsHomework\CalculateSum\obj\Debug\CalculateSum.pdb

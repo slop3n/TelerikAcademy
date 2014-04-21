@@ -1,0 +1,5 @@
+D:\Programming\03. OperatorsHomework\TrapezoidArea\bin\Debug\TrapezoidArea.exe.config
+D:\Programming\03. OperatorsHomework\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+D:\Programming\03. OperatorsHomework\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+D:\Programming\03. OperatorsHomework\TrapezoidArea\obj\Debug\TrapezoidArea.exe
+D:\Programming\03. OperatorsHomework\TrapezoidArea\obj\Debug\TrapezoidArea.pdb

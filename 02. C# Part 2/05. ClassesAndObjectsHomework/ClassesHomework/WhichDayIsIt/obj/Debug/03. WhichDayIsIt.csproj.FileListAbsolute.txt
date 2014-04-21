@@ -1,0 +1,6 @@
+D:\Programming\Homeworks\11. ClassesAndObjectsHomework\ClassesHomework\WhichDayIsIt\bin\Debug\WhichDayIsIt.exe.config
+D:\Programming\Homeworks\11. ClassesAndObjectsHomework\ClassesHomework\WhichDayIsIt\bin\Debug\WhichDayIsIt.exe
+D:\Programming\Homeworks\11. ClassesAndObjectsHomework\ClassesHomework\WhichDayIsIt\bin\Debug\WhichDayIsIt.pdb
+D:\Programming\Homeworks\11. ClassesAndObjectsHomework\ClassesHomework\WhichDayIsIt\obj\Debug\WhichDayIsIt.exe
+D:\Programming\Homeworks\11. ClassesAndObjectsHomework\ClassesHomework\WhichDayIsIt\obj\Debug\WhichDayIsIt.pdb
+D:\Programming\Homeworks\11. ClassesAndObjectsHomework\ClassesHomework\WhichDayIsIt\obj\Debug\03. WhichDayIsIt.csprojResolveAssemblyReference.cache

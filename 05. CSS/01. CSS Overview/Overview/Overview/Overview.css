@@ -1,0 +1,63 @@
+﻿body { 
+    font-size: 16px;
+    background-color: gray;
+}
+
+h1{
+    color:lightgray;
+    font-size: 1.5em;
+    font-family:Arial, 'Times New Roman';
+}
+
+th {
+    line-height: 2em;
+    font-style:italic; 
+    font-weight:bold;
+    color:lightgray;
+    text-align:left;
+    vertical-align:text-top;
+}
+
+#name{
+    color: #e9da2e;
+    font-weight:700;
+}
+    
+#support{
+    font-size:1.2em;
+    color:red;
+    font-weight:bold;
+}
+
+#email{
+    color: #e9da2e;
+    font-weight:650;
+}
+
+#response-time{
+    color:darkgray;
+    font-weight:700;
+}
+
+#lock-status{
+    color:darkgray;
+    font-weight:700;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+#link-to-public{    
+    color:#e9da2e;
+    font-weight:600;
+}
+
+#status {
+    color: orange;
+    font-weight: bold;
+}
+
+.name{
+    width:150px;
+}

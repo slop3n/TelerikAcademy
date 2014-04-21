@@ -1,0 +1,6 @@
+D:\Programming\OperatorsHomework\OddOrEven\bin\Debug\OddOrEven.exe.config
+D:\Programming\OperatorsHomework\OddOrEven\obj\Debug\OddOrEven.csprojResolveAssemblyReference.cache
+D:\Programming\OperatorsHomework\OddOrEven\bin\Debug\OddOrEven.exe
+D:\Programming\OperatorsHomework\OddOrEven\bin\Debug\OddOrEven.pdb
+D:\Programming\OperatorsHomework\OddOrEven\obj\Debug\OddOrEven.exe
+D:\Programming\OperatorsHomework\OddOrEven\obj\Debug\OddOrEven.pdb

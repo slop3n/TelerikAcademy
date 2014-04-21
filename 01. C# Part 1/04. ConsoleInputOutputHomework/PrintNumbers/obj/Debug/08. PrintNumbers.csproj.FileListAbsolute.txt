@@ -1,0 +1,6 @@
+D:\Programming\04. ConsoleInputOutputHomework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+D:\Programming\04. ConsoleInputOutputHomework\PrintNumbers\bin\Debug\PrintNumbers.exe
+D:\Programming\04. ConsoleInputOutputHomework\PrintNumbers\bin\Debug\PrintNumbers.pdb
+D:\Programming\04. ConsoleInputOutputHomework\PrintNumbers\obj\Debug\08. PrintNumbers.csprojResolveAssemblyReference.cache
+D:\Programming\04. ConsoleInputOutputHomework\PrintNumbers\obj\Debug\PrintNumbers.exe
+D:\Programming\04. ConsoleInputOutputHomework\PrintNumbers\obj\Debug\PrintNumbers.pdb

@@ -1,0 +1,2 @@
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\UnicodeNumber\bin\Debug\UnicodeNumber.exe.config
+D:\Programming\Datatypes\UnicodeNumber\bin\Debug\UnicodeNumber.exe.config

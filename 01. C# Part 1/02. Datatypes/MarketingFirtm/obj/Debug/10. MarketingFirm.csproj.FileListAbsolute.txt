@@ -1,0 +1,12 @@
+D:\Programming\Datatypes\MarketingFirtm\bin\Debug\MarketingFirtm.exe.config
+D:\Programming\Datatypes\MarketingFirtm\obj\Debug\10. MarketingFirm.csprojResolveAssemblyReference.cache
+D:\Programming\Datatypes\MarketingFirtm\bin\Debug\MarketingFirtm.exe
+D:\Programming\Datatypes\MarketingFirtm\bin\Debug\MarketingFirtm.pdb
+D:\Programming\Datatypes\MarketingFirtm\obj\Debug\MarketingFirtm.exe
+D:\Programming\Datatypes\MarketingFirtm\obj\Debug\MarketingFirtm.pdb
+D:\Programming\02. Datatypes\MarketingFirtm\bin\Debug\MarketingFirtm.exe.config
+D:\Programming\02. Datatypes\MarketingFirtm\obj\Debug\MarketingFirtm.exe
+D:\Programming\02. Datatypes\MarketingFirtm\obj\Debug\MarketingFirtm.pdb
+D:\Programming\02. Datatypes\MarketingFirtm\bin\Debug\MarketingFirtm.exe
+D:\Programming\02. Datatypes\MarketingFirtm\bin\Debug\MarketingFirtm.pdb
+D:\Programming\02. Datatypes\MarketingFirtm\obj\Debug\10. MarketingFirm.csprojResolveAssemblyReference.cache

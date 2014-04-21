@@ -1,0 +1,1 @@
+D:\Programming\ArraysHomework\MaximalSequenceArray\bin\Debug\MaximalSequenceArray.exe.config

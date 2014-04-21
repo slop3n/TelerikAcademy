@@ -1,0 +1,6 @@
+D:\Programming\04. ConsoleInputOutputHomework\Company\bin\Debug\Company.exe.config
+D:\Programming\04. ConsoleInputOutputHomework\Company\bin\Debug\Company.exe
+D:\Programming\04. ConsoleInputOutputHomework\Company\bin\Debug\Company.pdb
+D:\Programming\04. ConsoleInputOutputHomework\Company\obj\Debug\03. Company.csprojResolveAssemblyReference.cache
+D:\Programming\04. ConsoleInputOutputHomework\Company\obj\Debug\Company.exe
+D:\Programming\04. ConsoleInputOutputHomework\Company\obj\Debug\Company.pdb

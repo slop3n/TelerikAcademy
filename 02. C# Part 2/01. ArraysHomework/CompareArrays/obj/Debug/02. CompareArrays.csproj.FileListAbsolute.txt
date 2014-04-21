@@ -1,0 +1,11 @@
+D:\Programming\ArraysHomework\CompareArrays\bin\Debug\CompareArrays.exe.config
+D:\Programming\ArraysHomework\CompareArrays\bin\Debug\CompareArrays.exe
+D:\Programming\ArraysHomework\CompareArrays\bin\Debug\CompareArrays.pdb
+D:\Programming\ArraysHomework\CompareArrays\obj\Debug\CompareArrays.exe
+D:\Programming\ArraysHomework\CompareArrays\obj\Debug\CompareArrays.pdb
+D:\Programming\Homeworks\07. ArraysHomework\CompareArrays\bin\Debug\CompareArrays.exe.config
+D:\Programming\Homeworks\07. ArraysHomework\CompareArrays\obj\Debug\CompareArrays.exe
+D:\Programming\Homeworks\07. ArraysHomework\CompareArrays\obj\Debug\CompareArrays.pdb
+D:\Programming\Homeworks\07. ArraysHomework\CompareArrays\bin\Debug\CompareArrays.exe
+D:\Programming\Homeworks\07. ArraysHomework\CompareArrays\bin\Debug\CompareArrays.pdb
+D:\Programming\Homeworks\07. ArraysHomework\CompareArrays\obj\Debug\02. CompareArrays.csprojResolveAssemblyReference.cache

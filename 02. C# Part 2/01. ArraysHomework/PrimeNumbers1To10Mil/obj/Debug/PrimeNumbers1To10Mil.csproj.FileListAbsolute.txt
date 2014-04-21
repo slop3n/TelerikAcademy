@@ -1,0 +1,1 @@
+D:\Programming\Homeworks\07. ArraysHomework\PrimeNumbers1To10Mil\bin\Debug\PrimeNumbers1To10Mil.exe.config

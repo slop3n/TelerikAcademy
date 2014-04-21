@@ -1,0 +1,6 @@
+D:\Programming\Intro-Programming\PrintSqrt12345\bin\Debug\PrintSqrt12345.exe.config
+D:\Programming\Intro-Programming\PrintSqrt12345\bin\Debug\PrintSqrt12345.exe
+D:\Programming\Intro-Programming\PrintSqrt12345\bin\Debug\PrintSqrt12345.pdb
+D:\Programming\Intro-Programming\PrintSqrt12345\obj\Debug\PrintSqrt12345.exe
+D:\Programming\Intro-Programming\PrintSqrt12345\obj\Debug\PrintSqrt12345.pdb
+D:\Programming\Intro-Programming\PrintSqrt12345\obj\Debug\3. PrintSqrt12345.csprojResolveAssemblyReference.cache

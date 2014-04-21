@@ -1,0 +1,6 @@
+D:\Programming\Homeworks\07. ArraysHomework\SequenceOfGivenSum\bin\Debug\SequenceOfGivenSum.exe.config
+D:\Programming\Homeworks\07. ArraysHomework\SequenceOfGivenSum\obj\Debug\10. SequenceOfGivenSum.csprojResolveAssemblyReference.cache
+D:\Programming\Homeworks\07. ArraysHomework\SequenceOfGivenSum\bin\Debug\SequenceOfGivenSum.exe
+D:\Programming\Homeworks\07. ArraysHomework\SequenceOfGivenSum\bin\Debug\SequenceOfGivenSum.pdb
+D:\Programming\Homeworks\07. ArraysHomework\SequenceOfGivenSum\obj\Debug\SequenceOfGivenSum.exe
+D:\Programming\Homeworks\07. ArraysHomework\SequenceOfGivenSum\obj\Debug\SequenceOfGivenSum.pdb

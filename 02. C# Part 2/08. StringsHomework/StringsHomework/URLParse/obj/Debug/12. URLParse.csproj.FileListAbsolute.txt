@@ -1,0 +1,6 @@
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\URLParse\bin\Debug\URLParse.exe.config
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\URLParse\bin\Debug\URLParse.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\URLParse\bin\Debug\URLParse.pdb
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\URLParse\obj\Debug\12. URLParse.csprojResolveAssemblyReference.cache
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\URLParse\obj\Debug\URLParse.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\URLParse\obj\Debug\URLParse.pdb

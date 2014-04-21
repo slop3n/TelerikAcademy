@@ -1,0 +1,7 @@
+D:\Programming\ArraysHomework\CompareCharArrays\bin\Debug\CompareCharArrays.exe.config
+D:\Programming\Homeworks\07. ArraysHomework\CompareCharArrays\bin\Debug\CompareCharArrays.exe.config
+D:\Programming\Homeworks\07. ArraysHomework\CompareCharArrays\bin\Debug\CompareCharArrays.exe
+D:\Programming\Homeworks\07. ArraysHomework\CompareCharArrays\bin\Debug\CompareCharArrays.pdb
+D:\Programming\Homeworks\07. ArraysHomework\CompareCharArrays\obj\Debug\03. CompareCharArrays.csprojResolveAssemblyReference.cache
+D:\Programming\Homeworks\07. ArraysHomework\CompareCharArrays\obj\Debug\CompareCharArrays.exe
+D:\Programming\Homeworks\07. ArraysHomework\CompareCharArrays\obj\Debug\CompareCharArrays.pdb

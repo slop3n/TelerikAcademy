@@ -1,0 +1,6 @@
+D:\Programming\Homeworks\10. NumeralSystemsHomework\NumeralSystemsHomework\HexadecimalToBinary\bin\Debug\HexadecimalToBinary.exe.config
+D:\Programming\Homeworks\10. NumeralSystemsHomework\NumeralSystemsHomework\HexadecimalToBinary\bin\Debug\HexadecimalToBinary.exe
+D:\Programming\Homeworks\10. NumeralSystemsHomework\NumeralSystemsHomework\HexadecimalToBinary\bin\Debug\HexadecimalToBinary.pdb
+D:\Programming\Homeworks\10. NumeralSystemsHomework\NumeralSystemsHomework\HexadecimalToBinary\obj\Debug\05. HexadecimalToBinary.csprojResolveAssemblyReference.cache
+D:\Programming\Homeworks\10. NumeralSystemsHomework\NumeralSystemsHomework\HexadecimalToBinary\obj\Debug\HexadecimalToBinary.exe
+D:\Programming\Homeworks\10. NumeralSystemsHomework\NumeralSystemsHomework\HexadecimalToBinary\obj\Debug\HexadecimalToBinary.pdb

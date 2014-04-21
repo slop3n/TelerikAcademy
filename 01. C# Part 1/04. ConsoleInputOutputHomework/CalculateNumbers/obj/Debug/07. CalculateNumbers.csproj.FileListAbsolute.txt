@@ -1,0 +1,6 @@
+D:\Programming\04. ConsoleInputOutputHomework\CalculateNumbers\obj\Debug\07. CalculateNumbers.csprojResolveAssemblyReference.cache
+D:\Programming\04. ConsoleInputOutputHomework\CalculateNumbers\bin\Debug\CalculateNumbers.exe.config
+D:\Programming\04. ConsoleInputOutputHomework\CalculateNumbers\bin\Debug\CalculateNumbers.exe
+D:\Programming\04. ConsoleInputOutputHomework\CalculateNumbers\bin\Debug\CalculateNumbers.pdb
+D:\Programming\04. ConsoleInputOutputHomework\CalculateNumbers\obj\Debug\CalculateNumbers.exe
+D:\Programming\04. ConsoleInputOutputHomework\CalculateNumbers\obj\Debug\CalculateNumbers.pdb

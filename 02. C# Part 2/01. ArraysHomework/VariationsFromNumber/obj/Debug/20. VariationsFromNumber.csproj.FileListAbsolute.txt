@@ -1,0 +1,6 @@
+D:\Programming\Homeworks\07. ArraysHomework\VariationsFromNumber\bin\Debug\VariationsFromNumber.exe.config
+D:\Programming\Homeworks\07. ArraysHomework\VariationsFromNumber\bin\Debug\VariationsFromNumber.exe
+D:\Programming\Homeworks\07. ArraysHomework\VariationsFromNumber\bin\Debug\VariationsFromNumber.pdb
+D:\Programming\Homeworks\07. ArraysHomework\VariationsFromNumber\obj\Debug\VariationsFromNumber.exe
+D:\Programming\Homeworks\07. ArraysHomework\VariationsFromNumber\obj\Debug\VariationsFromNumber.pdb
+D:\Programming\Homeworks\07. ArraysHomework\VariationsFromNumber\obj\Debug\20. VariationsFromNumber.csprojResolveAssemblyReference.cache

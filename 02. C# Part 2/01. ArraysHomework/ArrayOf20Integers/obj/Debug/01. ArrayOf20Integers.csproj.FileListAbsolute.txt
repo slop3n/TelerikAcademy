@@ -1,0 +1,12 @@
+D:\Programming\ArraysHomework\ArrayOf20Integers\bin\Debug\ArrayOf20Integers.exe.config
+D:\Programming\ArraysHomework\ArrayOf20Integers\bin\Debug\ArrayOf20Integers.exe
+D:\Programming\ArraysHomework\ArrayOf20Integers\bin\Debug\ArrayOf20Integers.pdb
+D:\Programming\ArraysHomework\ArrayOf20Integers\obj\Debug\01. ArrayOf20Integers.csprojResolveAssemblyReference.cache
+D:\Programming\ArraysHomework\ArrayOf20Integers\obj\Debug\ArrayOf20Integers.exe
+D:\Programming\ArraysHomework\ArrayOf20Integers\obj\Debug\ArrayOf20Integers.pdb
+D:\Programming\Homeworks\07. ArraysHomework\ArrayOf20Integers\bin\Debug\ArrayOf20Integers.exe.config
+D:\Programming\Homeworks\07. ArraysHomework\ArrayOf20Integers\obj\Debug\ArrayOf20Integers.exe
+D:\Programming\Homeworks\07. ArraysHomework\ArrayOf20Integers\obj\Debug\ArrayOf20Integers.pdb
+D:\Programming\Homeworks\07. ArraysHomework\ArrayOf20Integers\bin\Debug\ArrayOf20Integers.exe
+D:\Programming\Homeworks\07. ArraysHomework\ArrayOf20Integers\bin\Debug\ArrayOf20Integers.pdb
+D:\Programming\Homeworks\07. ArraysHomework\ArrayOf20Integers\obj\Debug\01. ArrayOf20Integers.csprojResolveAssemblyReference.cache

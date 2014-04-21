@@ -1,0 +1,6 @@
+D:\Programming\Homeworks\08. MultidimensionalArraysHomework\MultidimensionalArraysHomework\MaximalSumOf9\bin\Debug\MaximalSumOf9.exe.config
+D:\Programming\Homeworks\08. MultidimensionalArraysHomework\MultidimensionalArraysHomework\MaximalSumOf9\bin\Debug\MaximalSumOf9.exe
+D:\Programming\Homeworks\08. MultidimensionalArraysHomework\MultidimensionalArraysHomework\MaximalSumOf9\bin\Debug\MaximalSumOf9.pdb
+D:\Programming\Homeworks\08. MultidimensionalArraysHomework\MultidimensionalArraysHomework\MaximalSumOf9\obj\Debug\MaximalSumOf9.exe
+D:\Programming\Homeworks\08. MultidimensionalArraysHomework\MultidimensionalArraysHomework\MaximalSumOf9\obj\Debug\MaximalSumOf9.pdb
+D:\Programming\Homeworks\08. MultidimensionalArraysHomework\MultidimensionalArraysHomework\MaximalSumOf9\obj\Debug\02. MaximalSumOf9.csprojResolveAssemblyReference.cache

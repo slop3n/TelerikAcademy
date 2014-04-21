@@ -1,0 +1,5 @@
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\TwentyCharactersString\bin\Debug\TwentyCharactersString.exe.config
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\TwentyCharactersString\bin\Debug\TwentyCharactersString.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\TwentyCharactersString\bin\Debug\TwentyCharactersString.pdb
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\TwentyCharactersString\obj\Debug\TwentyCharactersString.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\TwentyCharactersString\obj\Debug\TwentyCharactersString.pdb

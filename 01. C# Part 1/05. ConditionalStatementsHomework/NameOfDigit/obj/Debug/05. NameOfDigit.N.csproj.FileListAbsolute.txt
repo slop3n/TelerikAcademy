@@ -1,0 +1,6 @@
+D:\Programming\05. ConditionalStatementsHomework\NameOfDigit\bin\Debug\NameOfDigit.exe.config
+D:\Programming\05. ConditionalStatementsHomework\NameOfDigit\bin\Debug\NameOfDigit.exe
+D:\Programming\05. ConditionalStatementsHomework\NameOfDigit\bin\Debug\NameOfDigit.pdb
+D:\Programming\05. ConditionalStatementsHomework\NameOfDigit\obj\Debug\05. NameOfDigit.N.csprojResolveAssemblyReference.cache
+D:\Programming\05. ConditionalStatementsHomework\NameOfDigit\obj\Debug\NameOfDigit.exe
+D:\Programming\05. ConditionalStatementsHomework\NameOfDigit\obj\Debug\NameOfDigit.pdb

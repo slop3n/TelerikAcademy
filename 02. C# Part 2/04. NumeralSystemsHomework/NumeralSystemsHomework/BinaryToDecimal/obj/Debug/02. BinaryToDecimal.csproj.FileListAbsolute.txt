@@ -1,0 +1,5 @@
+D:\Programming\Homeworks\10. NumeralSystemsHomework\NumeralSystemsHomework\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+D:\Programming\Homeworks\10. NumeralSystemsHomework\NumeralSystemsHomework\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe
+D:\Programming\Homeworks\10. NumeralSystemsHomework\NumeralSystemsHomework\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb
+D:\Programming\Homeworks\10. NumeralSystemsHomework\NumeralSystemsHomework\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+D:\Programming\Homeworks\10. NumeralSystemsHomework\NumeralSystemsHomework\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb

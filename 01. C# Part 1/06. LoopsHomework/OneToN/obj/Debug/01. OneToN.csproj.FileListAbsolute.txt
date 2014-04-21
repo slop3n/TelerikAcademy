@@ -1,0 +1,5 @@
+D:\Programming\06. LoopsHomework\OneToN\bin\Debug\OneToN.exe.config
+D:\Programming\06. LoopsHomework\OneToN\bin\Debug\OneToN.exe
+D:\Programming\06. LoopsHomework\OneToN\bin\Debug\OneToN.pdb
+D:\Programming\06. LoopsHomework\OneToN\obj\Debug\OneToN.exe
+D:\Programming\06. LoopsHomework\OneToN\obj\Debug\OneToN.pdb

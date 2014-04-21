@@ -1,0 +1,5 @@
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ReverseSentence\bin\Debug\ReverseSentence.exe.config
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ReverseSentence\bin\Debug\ReverseSentence.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ReverseSentence\bin\Debug\ReverseSentence.pdb
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ReverseSentence\obj\Debug\ReverseSentence.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ReverseSentence\obj\Debug\ReverseSentence.pdb

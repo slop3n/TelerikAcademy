@@ -1,0 +1,14 @@
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\FloatDoubleVars\bin\Debug\FloatDoubleVars.exe.config
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\FloatDoubleVars\bin\Debug\FloatDoubleVars.exe
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\FloatDoubleVars\bin\Debug\FloatDoubleVars.pdb
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\FloatDoubleVars\obj\Debug\FloatDoubleVars.exe
+c:\users\agit0\documents\visual studio 2013\Projects\Solution1\FloatDoubleVars\obj\Debug\FloatDoubleVars.pdb
+D:\Programming\Datatypes\FloatDoubleVars\bin\Debug\FloatDoubleVars.exe.config
+D:\Programming\Datatypes\FloatDoubleVars\obj\Debug\FloatDoubleVars.exe
+D:\Programming\Datatypes\FloatDoubleVars\obj\Debug\FloatDoubleVars.pdb
+D:\Programming\02. Datatypes\FloatDoubleVars\bin\Debug\FloatDoubleVars.exe.config
+D:\Programming\02. Datatypes\FloatDoubleVars\obj\Debug\FloatDoubleVars.exe
+D:\Programming\02. Datatypes\FloatDoubleVars\obj\Debug\FloatDoubleVars.pdb
+D:\Programming\02. Datatypes\FloatDoubleVars\bin\Debug\FloatDoubleVars.exe
+D:\Programming\02. Datatypes\FloatDoubleVars\bin\Debug\FloatDoubleVars.pdb
+D:\Programming\02. Datatypes\FloatDoubleVars\obj\Debug\02. FloatDoubleVars.csprojResolveAssemblyReference.cache

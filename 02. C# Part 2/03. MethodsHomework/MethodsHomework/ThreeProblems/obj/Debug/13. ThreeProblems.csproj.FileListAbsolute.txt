@@ -1,0 +1,6 @@
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\ThreeProblems\bin\Debug\ThreeProblems.exe.config
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\ThreeProblems\bin\Debug\ThreeProblems.exe
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\ThreeProblems\bin\Debug\ThreeProblems.pdb
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\ThreeProblems\obj\Debug\ThreeProblems.exe
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\ThreeProblems\obj\Debug\ThreeProblems.pdb
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\ThreeProblems\obj\Debug\13. ThreeProblems.csprojResolveAssemblyReference.cache

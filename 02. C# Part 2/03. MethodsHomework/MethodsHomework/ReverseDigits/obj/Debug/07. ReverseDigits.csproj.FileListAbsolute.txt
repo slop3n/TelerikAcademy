@@ -1,0 +1,5 @@
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\ReverseDigits\bin\Debug\ReverseDigits.exe.config
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\ReverseDigits\bin\Debug\ReverseDigits.exe
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\ReverseDigits\bin\Debug\ReverseDigits.pdb
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\ReverseDigits\obj\Debug\ReverseDigits.exe
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\ReverseDigits\obj\Debug\ReverseDigits.pdb

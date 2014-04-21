@@ -1,0 +1,5 @@
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\NumberProblems\bin\Debug\NumberProblems.exe.config
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\NumberProblems\bin\Debug\NumberProblems.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\NumberProblems\bin\Debug\NumberProblems.pdb
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\NumberProblems\obj\Debug\NumberProblems.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\NumberProblems\obj\Debug\NumberProblems.pdb

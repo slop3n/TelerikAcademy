@@ -1,0 +1,6 @@
+D:\Programming\Homeworks\07. ArraysHomework\SortArray\bin\Debug\SortArray.exe.config
+D:\Programming\Homeworks\07. ArraysHomework\SortArray\bin\Debug\SortArray.exe
+D:\Programming\Homeworks\07. ArraysHomework\SortArray\bin\Debug\SortArray.pdb
+D:\Programming\Homeworks\07. ArraysHomework\SortArray\obj\Debug\07. SortArray.csprojResolveAssemblyReference.cache
+D:\Programming\Homeworks\07. ArraysHomework\SortArray\obj\Debug\SortArray.exe
+D:\Programming\Homeworks\07. ArraysHomework\SortArray\obj\Debug\SortArray.pdb

@@ -1,0 +1,6 @@
+D:\Programming\Homeworks\07. ArraysHomework\IncreasingSequence\bin\Debug\IncreasingSequence.exe.config
+D:\Programming\Homeworks\07. ArraysHomework\IncreasingSequence\bin\Debug\IncreasingSequence.exe
+D:\Programming\Homeworks\07. ArraysHomework\IncreasingSequence\bin\Debug\IncreasingSequence.pdb
+D:\Programming\Homeworks\07. ArraysHomework\IncreasingSequence\obj\Debug\IncreasingSequence.exe
+D:\Programming\Homeworks\07. ArraysHomework\IncreasingSequence\obj\Debug\IncreasingSequence.pdb
+D:\Programming\Homeworks\07. ArraysHomework\IncreasingSequence\obj\Debug\05. IncreasingSequence.csprojResolveAssemblyReference.cache

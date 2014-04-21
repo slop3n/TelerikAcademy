@@ -1,0 +1,6 @@
+D:\Programming\06. LoopsHomework\CatalanFormula\bin\Debug\CatalanFormula.exe.config
+D:\Programming\06. LoopsHomework\CatalanFormula\bin\Debug\CatalanFormula.exe
+D:\Programming\06. LoopsHomework\CatalanFormula\bin\Debug\CatalanFormula.pdb
+D:\Programming\06. LoopsHomework\CatalanFormula\obj\Debug\09. CatalanFormula.csprojResolveAssemblyReference.cache
+D:\Programming\06. LoopsHomework\CatalanFormula\obj\Debug\CatalanFormula.exe
+D:\Programming\06. LoopsHomework\CatalanFormula\obj\Debug\CatalanFormula.pdb

@@ -1,0 +1,5 @@
+D:\Programming\06. LoopsHomework\CatalanFormula2\bin\Debug\CatalanFormula2.exe.config
+D:\Programming\06. LoopsHomework\CatalanFormula2\bin\Debug\CatalanFormula2.exe
+D:\Programming\06. LoopsHomework\CatalanFormula2\bin\Debug\CatalanFormula2.pdb
+D:\Programming\06. LoopsHomework\CatalanFormula2\obj\Debug\CatalanFormula2.exe
+D:\Programming\06. LoopsHomework\CatalanFormula2\obj\Debug\CatalanFormula2.pdb

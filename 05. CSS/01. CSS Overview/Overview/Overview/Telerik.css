@@ -1,0 +1,33 @@
+﻿body {
+    font-size: 18px;
+    background-color: grey;
+}
+
+h1:first-child {
+    color: rgba(243, 210, 53, 0.66);
+    font-size: 2em;
+}
+
+body>header>h1{
+    text-align:center;
+}
+
+article a:link {
+    text-decoration: none;
+    color:black;
+}
+
+ul li{
+    text-align:center;
+    font-size:1.6em;
+    list-style-type:none;
+}
+
+ul>li>a:link{
+    text-decoration:none;
+    color:white;
+}
+
+body>footer{
+    text-align:center;
+}

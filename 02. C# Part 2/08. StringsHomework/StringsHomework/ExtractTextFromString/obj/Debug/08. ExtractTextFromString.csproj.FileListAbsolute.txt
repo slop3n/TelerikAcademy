@@ -1,0 +1,5 @@
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ExtractTextFromString\bin\Debug\ExtractTextFromString.exe.config
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ExtractTextFromString\bin\Debug\ExtractTextFromString.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ExtractTextFromString\bin\Debug\ExtractTextFromString.pdb
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ExtractTextFromString\obj\Debug\ExtractTextFromString.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ExtractTextFromString\obj\Debug\ExtractTextFromString.pdb

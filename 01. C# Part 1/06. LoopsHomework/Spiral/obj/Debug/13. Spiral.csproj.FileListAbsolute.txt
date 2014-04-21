@@ -1,0 +1,3 @@
+D:\Programming\06. LoopsHomework\Spiral\bin\Debug\Spiral.exe.config
+D:\Programming\06. LoopsHomework\Spiral\obj\Debug\Spiral.exe
+D:\Programming\06. LoopsHomework\Spiral\obj\Debug\Spiral.pdb

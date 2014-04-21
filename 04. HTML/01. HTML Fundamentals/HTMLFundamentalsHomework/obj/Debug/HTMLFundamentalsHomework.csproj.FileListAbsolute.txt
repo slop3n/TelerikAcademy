@@ -1,0 +1,4 @@
+D:\Programming\Homeworks\04. HTML\01. HTML Fundamentals\HTMLFundamentalsHomework\bin\HTMLFundamentalsHomework.dll
+D:\Programming\Homeworks\04. HTML\01. HTML Fundamentals\HTMLFundamentalsHomework\bin\HTMLFundamentalsHomework.pdb
+D:\Programming\Homeworks\04. HTML\01. HTML Fundamentals\HTMLFundamentalsHomework\obj\Debug\HTMLFundamentalsHomework.dll
+D:\Programming\Homeworks\04. HTML\01. HTML Fundamentals\HTMLFundamentalsHomework\obj\Debug\HTMLFundamentalsHomework.pdb

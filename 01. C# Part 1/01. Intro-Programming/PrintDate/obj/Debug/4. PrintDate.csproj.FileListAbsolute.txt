@@ -1,0 +1,6 @@
+D:\Programming\Intro-Programming\PrintDate\bin\Debug\PrintDate.exe.config
+D:\Programming\Intro-Programming\PrintDate\obj\Debug\PrintDate.exe
+D:\Programming\Intro-Programming\PrintDate\obj\Debug\PrintDate.pdb
+D:\Programming\01. Intro-Programming\PrintDate\bin\Debug\PrintDate.exe.config
+D:\Programming\01. Intro-Programming\PrintDate\obj\Debug\PrintDate.exe
+D:\Programming\01. Intro-Programming\PrintDate\obj\Debug\PrintDate.pdb

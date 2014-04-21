@@ -1,0 +1,8 @@
+D:\Programming\Intro-Programming\PrintSqrt12345\bin\Debug\PrintSqrt12345.exe.config
+D:\Programming\Intro-Programming\PrintSqrt12345\obj\Debug\PrintSqrt12345.exe
+D:\Programming\Intro-Programming\PrintSqrt12345\obj\Debug\PrintSqrt12345.pdb
+D:\Programming\Intro-Programming\PrintSqrt12345\bin\Debug\PrintSqrt12345.exe
+D:\Programming\Intro-Programming\PrintSqrt12345\bin\Debug\PrintSqrt12345.pdb
+D:\Programming\01. Intro-Programming\PrintSqrt12345\bin\Debug\PrintSqrt12345.exe.config
+D:\Programming\01. Intro-Programming\PrintSqrt12345\obj\Debug\PrintSqrt12345.exe
+D:\Programming\01. Intro-Programming\PrintSqrt12345\obj\Debug\PrintSqrt12345.pdb

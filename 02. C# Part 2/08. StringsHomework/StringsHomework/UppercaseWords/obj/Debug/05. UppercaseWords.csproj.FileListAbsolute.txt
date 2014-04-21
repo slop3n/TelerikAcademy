@@ -1,0 +1,6 @@
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\UppercaseWords\bin\Debug\UppercaseWords.exe.config
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\UppercaseWords\bin\Debug\UppercaseWords.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\UppercaseWords\bin\Debug\UppercaseWords.pdb
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\UppercaseWords\obj\Debug\UppercaseWords.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\UppercaseWords\obj\Debug\UppercaseWords.pdb
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\UppercaseWords\obj\Debug\05. UppercaseWords.csprojResolveAssemblyReference.cache

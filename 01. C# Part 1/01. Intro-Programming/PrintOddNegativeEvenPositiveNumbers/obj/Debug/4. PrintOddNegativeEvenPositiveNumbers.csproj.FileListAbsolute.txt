@@ -1,0 +1,5 @@
+D:\Programming\Intro-Programming\PrintOddNegativeEvenPositiveNumbers\bin\Debug\PrintOddNegativeEvenPositiveNumbers.exe.config
+D:\Programming\Intro-Programming\PrintOddNegativeEvenPositiveNumbers\bin\Debug\PrintOddNegativeEvenPositiveNumbers.exe
+D:\Programming\Intro-Programming\PrintOddNegativeEvenPositiveNumbers\bin\Debug\PrintOddNegativeEvenPositiveNumbers.pdb
+D:\Programming\Intro-Programming\PrintOddNegativeEvenPositiveNumbers\obj\Debug\PrintOddNegativeEvenPositiveNumbers.exe
+D:\Programming\Intro-Programming\PrintOddNegativeEvenPositiveNumbers\obj\Debug\PrintOddNegativeEvenPositiveNumbers.pdb

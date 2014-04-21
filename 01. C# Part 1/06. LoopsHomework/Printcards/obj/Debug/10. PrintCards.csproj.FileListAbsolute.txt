@@ -1,0 +1,6 @@
+D:\Programming\06. LoopsHomework\Printcards\bin\Debug\Printcards.exe.config
+D:\Programming\06. LoopsHomework\Printcards\obj\Debug\Printcards.exe
+D:\Programming\06. LoopsHomework\Printcards\obj\Debug\Printcards.pdb
+D:\Programming\06. LoopsHomework\Printcards\bin\Debug\Printcards.exe
+D:\Programming\06. LoopsHomework\Printcards\bin\Debug\Printcards.pdb
+D:\Programming\06. LoopsHomework\Printcards\obj\Debug\10. PrintCards.csprojResolveAssemblyReference.cache

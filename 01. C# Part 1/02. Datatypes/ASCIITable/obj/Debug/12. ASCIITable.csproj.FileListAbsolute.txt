@@ -1,0 +1,12 @@
+D:\Programming\Datatypes\ASCIITable\bin\Debug\ASCIITable.exe.config
+D:\Programming\Datatypes\ASCIITable\bin\Debug\ASCIITable.exe
+D:\Programming\Datatypes\ASCIITable\bin\Debug\ASCIITable.pdb
+D:\Programming\Datatypes\ASCIITable\obj\Debug\ASCIITable.exe
+D:\Programming\Datatypes\ASCIITable\obj\Debug\ASCIITable.pdb
+D:\Programming\Datatypes\ASCIITable\obj\Debug\12. ASCIITable.csprojResolveAssemblyReference.cache
+D:\Programming\02. Datatypes\ASCIITable\bin\Debug\ASCIITable.exe.config
+D:\Programming\02. Datatypes\ASCIITable\obj\Debug\ASCIITable.exe
+D:\Programming\02. Datatypes\ASCIITable\obj\Debug\ASCIITable.pdb
+D:\Programming\02. Datatypes\ASCIITable\bin\Debug\ASCIITable.exe
+D:\Programming\02. Datatypes\ASCIITable\bin\Debug\ASCIITable.pdb
+D:\Programming\02. Datatypes\ASCIITable\obj\Debug\12. ASCIITable.csprojResolveAssemblyReference.cache

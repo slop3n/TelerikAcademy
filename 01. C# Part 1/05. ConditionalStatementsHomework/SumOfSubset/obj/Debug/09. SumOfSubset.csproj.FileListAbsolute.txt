@@ -1,0 +1,9 @@
+D:\Programming\05. ConditionalStatementsHomework\SumOfSubset\bin\Debug\SumOfSubset.exe.config
+D:\Programming\05. ConditionalStatementsHomework\SumOfSubset\bin\Debug\SumOfSubset.exe
+D:\Programming\05. ConditionalStatementsHomework\SumOfSubset\bin\Debug\SumOfSubset.pdb
+D:\Programming\05. ConditionalStatementsHomework\SumOfSubset\obj\Debug\09. SumOfSubset.csprojResolveAssemblyReference.cache
+D:\Programming\05. ConditionalStatementsHomework\SumOfSubset\obj\Debug\SumOfSubset.exe
+D:\Programming\05. ConditionalStatementsHomework\SumOfSubset\obj\Debug\SumOfSubset.pdb
+D:\Programming\Homeworks\C#1\05. ConditionalStatementsHomework\SumOfSubset\bin\Debug\SumOfSubset.exe.config
+D:\Programming\Homeworks\C#1\05. ConditionalStatementsHomework\SumOfSubset\obj\Debug\SumOfSubset.exe
+D:\Programming\Homeworks\C#1\05. ConditionalStatementsHomework\SumOfSubset\obj\Debug\SumOfSubset.pdb

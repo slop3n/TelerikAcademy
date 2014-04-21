@@ -1,0 +1,6 @@
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\SubstringInSentence\bin\Debug\SubstringInSentence.exe.config
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\SubstringInSentence\bin\Debug\SubstringInSentence.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\SubstringInSentence\bin\Debug\SubstringInSentence.pdb
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\SubstringInSentence\obj\Debug\04. SubstringInSentence.csprojResolveAssemblyReference.cache
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\SubstringInSentence\obj\Debug\SubstringInSentence.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\SubstringInSentence\obj\Debug\SubstringInSentence.pdb

@@ -1,0 +1,6 @@
+D:\Programming\05. ConditionalStatementsHomework\ConvertNumberToSpeech\bin\Debug\ConvertNumberToSpeech.exe.config
+D:\Programming\05. ConditionalStatementsHomework\ConvertNumberToSpeech\bin\Debug\ConvertNumberToSpeech.exe
+D:\Programming\05. ConditionalStatementsHomework\ConvertNumberToSpeech\bin\Debug\ConvertNumberToSpeech.pdb
+D:\Programming\05. ConditionalStatementsHomework\ConvertNumberToSpeech\obj\Debug\11. ConvertNumberToSpeech.csprojResolveAssemblyReference.cache
+D:\Programming\05. ConditionalStatementsHomework\ConvertNumberToSpeech\obj\Debug\ConvertNumberToSpeech.exe
+D:\Programming\05. ConditionalStatementsHomework\ConvertNumberToSpeech\obj\Debug\ConvertNumberToSpeech.pdb

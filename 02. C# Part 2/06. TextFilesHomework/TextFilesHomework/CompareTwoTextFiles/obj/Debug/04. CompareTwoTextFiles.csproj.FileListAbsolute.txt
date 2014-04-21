@@ -1,0 +1,6 @@
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\CompareTwoTextFiles\bin\Debug\CompareTwoTextFiles.exe.config
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\CompareTwoTextFiles\bin\Debug\CompareTwoTextFiles.exe
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\CompareTwoTextFiles\bin\Debug\CompareTwoTextFiles.pdb
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\CompareTwoTextFiles\obj\Debug\04. CompareTwoTextFiles.csprojResolveAssemblyReference.cache
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\CompareTwoTextFiles\obj\Debug\CompareTwoTextFiles.exe
+D:\Programming\Homeworks\12. TextFilesHomework\TextFilesHomework\CompareTwoTextFiles\obj\Debug\CompareTwoTextFiles.pdb

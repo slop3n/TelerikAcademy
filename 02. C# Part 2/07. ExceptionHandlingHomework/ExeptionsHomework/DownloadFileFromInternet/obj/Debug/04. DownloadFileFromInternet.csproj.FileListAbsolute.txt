@@ -1,0 +1,5 @@
+D:\Programming\Homeworks\13. ExceptionHandlingHomework\ExeptionsHomework\DownloadFileFromInternet\bin\Debug\DownloadFileFromInternet.exe.config
+D:\Programming\Homeworks\13. ExceptionHandlingHomework\ExeptionsHomework\DownloadFileFromInternet\bin\Debug\DownloadFileFromInternet.exe
+D:\Programming\Homeworks\13. ExceptionHandlingHomework\ExeptionsHomework\DownloadFileFromInternet\bin\Debug\DownloadFileFromInternet.pdb
+D:\Programming\Homeworks\13. ExceptionHandlingHomework\ExeptionsHomework\DownloadFileFromInternet\obj\Debug\DownloadFileFromInternet.exe
+D:\Programming\Homeworks\13. ExceptionHandlingHomework\ExeptionsHomework\DownloadFileFromInternet\obj\Debug\DownloadFileFromInternet.pdb

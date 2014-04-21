@@ -1,0 +1,9 @@
+D:\Programming\05. ConditionalStatementsHomework\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+D:\Programming\05. ConditionalStatementsHomework\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+D:\Programming\05. ConditionalStatementsHomework\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+D:\Programming\05. ConditionalStatementsHomework\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+D:\Programming\05. ConditionalStatementsHomework\QuadraticEquation\obj\Debug\QuadraticEquation.pdb
+D:\Programming\05. ConditionalStatementsHomework\QuadraticEquation\obj\Debug\06. QuadraticEquation.csprojResolveAssemblyReference.cache
+D:\Programming\Homeworks\C#1\05. ConditionalStatementsHomework\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+D:\Programming\Homeworks\C#1\05. ConditionalStatementsHomework\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+D:\Programming\Homeworks\C#1\05. ConditionalStatementsHomework\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

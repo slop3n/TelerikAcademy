@@ -1,0 +1,5 @@
+c:\Users\Haha\documents\visual studio 2013\Projects\Point3D\Version\bin\Debug\Version.exe.config
+c:\Users\Haha\documents\visual studio 2013\Projects\Point3D\Version\bin\Debug\Version.exe
+c:\Users\Haha\documents\visual studio 2013\Projects\Point3D\Version\bin\Debug\Version.pdb
+c:\Users\Haha\documents\visual studio 2013\Projects\Point3D\Version\obj\Debug\Version.exe
+c:\Users\Haha\documents\visual studio 2013\Projects\Point3D\Version\obj\Debug\Version.pdb

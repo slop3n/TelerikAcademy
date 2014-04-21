@@ -1,0 +1,9 @@
+D:\Programming\OperatorsHomework\RectangleArea\bin\Debug\RectangleArea.exe.config
+D:\Programming\OperatorsHomework\RectangleArea\bin\Debug\RectangleArea.exe
+D:\Programming\OperatorsHomework\RectangleArea\bin\Debug\RectangleArea.pdb
+D:\Programming\OperatorsHomework\RectangleArea\obj\Debug\RectangleArea.exe
+D:\Programming\OperatorsHomework\RectangleArea\obj\Debug\RectangleArea.pdb
+D:\Programming\OperatorsHomework\RectangleArea\obj\Debug\03. RectangleArea.csprojResolveAssemblyReference.cache
+D:\Programming\03. OperatorsHomework\RectangleArea\bin\Debug\RectangleArea.exe.config
+D:\Programming\03. OperatorsHomework\RectangleArea\obj\Debug\RectangleArea.exe
+D:\Programming\03. OperatorsHomework\RectangleArea\obj\Debug\RectangleArea.pdb

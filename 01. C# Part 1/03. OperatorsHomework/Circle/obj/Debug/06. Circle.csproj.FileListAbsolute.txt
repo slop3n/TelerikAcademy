@@ -1,0 +1,6 @@
+D:\Programming\03. OperatorsHomework\Circle\bin\Debug\Circle.exe.config
+D:\Programming\03. OperatorsHomework\Circle\bin\Debug\Circle.exe
+D:\Programming\03. OperatorsHomework\Circle\bin\Debug\Circle.pdb
+D:\Programming\03. OperatorsHomework\Circle\obj\Debug\Circle.exe
+D:\Programming\03. OperatorsHomework\Circle\obj\Debug\Circle.pdb
+D:\Programming\03. OperatorsHomework\Circle\obj\Debug\06. Circle.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+D:\Programming\Homeworks\07. ArraysHomework\MaximalSumOfElements\bin\Debug\MaximalSumOfElements.exe.config

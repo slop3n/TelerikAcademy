@@ -1,0 +1,5 @@
+D:\Programming\Homeworks\13. ExceptionHandlingHomework\ExeptionsHomework\PrintFromFile\bin\Debug\PrintFromFile.exe.config
+D:\Programming\Homeworks\13. ExceptionHandlingHomework\ExeptionsHomework\PrintFromFile\bin\Debug\PrintFromFile.exe
+D:\Programming\Homeworks\13. ExceptionHandlingHomework\ExeptionsHomework\PrintFromFile\bin\Debug\PrintFromFile.pdb
+D:\Programming\Homeworks\13. ExceptionHandlingHomework\ExeptionsHomework\PrintFromFile\obj\Debug\PrintFromFile.exe
+D:\Programming\Homeworks\13. ExceptionHandlingHomework\ExeptionsHomework\PrintFromFile\obj\Debug\PrintFromFile.pdb

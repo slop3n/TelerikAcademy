@@ -1,0 +1,6 @@
+D:\Programming\Homeworks\11. ClassesAndObjectsHomework\ClassesHomework\Triangle\bin\Debug\Triangle.exe.config
+D:\Programming\Homeworks\11. ClassesAndObjectsHomework\ClassesHomework\Triangle\obj\Debug\04. Triangle.csprojResolveAssemblyReference.cache
+D:\Programming\Homeworks\11. ClassesAndObjectsHomework\ClassesHomework\Triangle\bin\Debug\Triangle.exe
+D:\Programming\Homeworks\11. ClassesAndObjectsHomework\ClassesHomework\Triangle\bin\Debug\Triangle.pdb
+D:\Programming\Homeworks\11. ClassesAndObjectsHomework\ClassesHomework\Triangle\obj\Debug\Triangle.exe
+D:\Programming\Homeworks\11. ClassesAndObjectsHomework\ClassesHomework\Triangle\obj\Debug\Triangle.pdb

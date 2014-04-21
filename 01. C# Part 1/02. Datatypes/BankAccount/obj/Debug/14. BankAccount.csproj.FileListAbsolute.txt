@@ -1,0 +1,12 @@
+D:\Programming\Datatypes\BankAccount\bin\Debug\BankAccount.exe.config
+D:\Programming\Datatypes\BankAccount\bin\Debug\BankAccount.exe
+D:\Programming\Datatypes\BankAccount\bin\Debug\BankAccount.pdb
+D:\Programming\Datatypes\BankAccount\obj\Debug\14. BankAccount.csprojResolveAssemblyReference.cache
+D:\Programming\Datatypes\BankAccount\obj\Debug\BankAccount.exe
+D:\Programming\Datatypes\BankAccount\obj\Debug\BankAccount.pdb
+D:\Programming\02. Datatypes\BankAccount\bin\Debug\BankAccount.exe.config
+D:\Programming\02. Datatypes\BankAccount\obj\Debug\BankAccount.exe
+D:\Programming\02. Datatypes\BankAccount\obj\Debug\BankAccount.pdb
+D:\Programming\02. Datatypes\BankAccount\bin\Debug\BankAccount.exe
+D:\Programming\02. Datatypes\BankAccount\bin\Debug\BankAccount.pdb
+D:\Programming\02. Datatypes\BankAccount\obj\Debug\14. BankAccount.csprojResolveAssemblyReference.cache

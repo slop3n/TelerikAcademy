@@ -1,0 +1,5 @@
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ReplaceHTML\bin\Debug\ReplaceHTML.exe.config
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ReplaceHTML\bin\Debug\ReplaceHTML.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ReplaceHTML\bin\Debug\ReplaceHTML.pdb
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ReplaceHTML\obj\Debug\ReplaceHTML.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ReplaceHTML\obj\Debug\ReplaceHTML.pdb

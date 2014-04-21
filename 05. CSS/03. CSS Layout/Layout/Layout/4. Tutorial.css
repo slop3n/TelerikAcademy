@@ -1,0 +1,114 @@
+﻿body {
+    font-size:16px;
+    background-color: #F1F1F1;
+}
+
+/* start left sidebar */
+nav {
+    background-color:#F1F1F1;
+    float: left;
+    width: 20%;
+    box-sizing: border-box;
+}
+
+#home {
+    margin: 20px 0px 20px 0px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+ul {
+    padding-left: 0px;
+}
+
+li a {
+    color: black;
+    text-decoration: none;
+}
+
+li:first-child {
+    color: red;
+    font-weight: bold;
+}
+
+li {
+    margin-left: 0px;
+    list-style: none;
+}
+
+/*end left sidebar */
+
+/* start middle section*/
+section {
+    float: left;
+    width: 60%;
+    box-sizing: border-box;
+    border:2px solid #B3B3B3;
+    background-color:white;
+    padding-bottom: 40px;
+}
+
+article > h2 {
+    background-color:#808080;
+    color:white;
+    margin:5px;
+    padding-left:5px;
+}
+
+.tutorial{
+    font-weight:bold;
+    font-size:1.2em;
+}
+
+hr{
+    margin:5px;
+    height:2px;
+    border:0px;
+    background-color: #8D8D8D;
+}
+
+article a{
+    color:red;
+}
+
+article img {
+    height: 125px;
+    float:left;
+    margin-left:5px;
+}
+
+.prev-btn, .next-btn{
+    margin-left:5px;
+    margin-right:0px;
+    background: none;
+    border-color: black;
+}
+/*end middle section*/
+
+/*start right section*/
+aside {
+    float: right;
+    width: 20%;
+    box-sizing: border-box;
+}
+
+aside > div {
+    border: 1px solid #B3B3B3;
+    text-align:center;
+    margin: 1px;
+    padding:5px;
+    background-color:white;
+}
+
+aside > div > h2{
+    background-color:#808080;
+    color:white;
+    text-transform:uppercase;
+    margin:0px;
+    padding:2px;
+}
+
+aside > div > a{
+    color:red;
+}
+/*end right section*/

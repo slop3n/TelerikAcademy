@@ -1,0 +1,6 @@
+D:\Programming\Homeworks\07. ArraysHomework\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe.config
+D:\Programming\Homeworks\07. ArraysHomework\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe
+D:\Programming\Homeworks\07. ArraysHomework\MostFrequentNumber\bin\Debug\MostFrequentNumber.pdb
+D:\Programming\Homeworks\07. ArraysHomework\MostFrequentNumber\obj\Debug\MostFrequentNumber.exe
+D:\Programming\Homeworks\07. ArraysHomework\MostFrequentNumber\obj\Debug\MostFrequentNumber.pdb
+D:\Programming\Homeworks\07. ArraysHomework\MostFrequentNumber\obj\Debug\09. MostFrequentNumber.csprojResolveAssemblyReference.cache

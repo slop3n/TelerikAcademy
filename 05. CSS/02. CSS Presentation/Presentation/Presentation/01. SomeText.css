@@ -1,0 +1,13 @@
+﻿body { font-size:18px;
+}
+
+#lorem {
+    font-size:1.3em;
+    color:#0095ff;
+    font-family: Consolas;
+}
+
+#lorem:first-letter{
+    font-family:'Edwardian Script ITC';
+    font-size:3em;
+}

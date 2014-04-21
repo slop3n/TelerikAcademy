@@ -1,0 +1,6 @@
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\NumberCounter\bin\Debug\NumberCounter.exe.config
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\NumberCounter\bin\Debug\NumberCounter.exe
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\NumberCounter\bin\Debug\NumberCounter.pdb
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\NumberCounter\obj\Debug\NumberCounter.exe
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\NumberCounter\obj\Debug\NumberCounter.pdb
+D:\Programming\Homeworks\09. MethodsHomework\MethodsHomework\NumberCounter\obj\Debug\04. NumberCounter.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Programming\Homeworks\07. ArraysHomework\PrimeNumbers1To10Mil\bin\Debug\PrimeNumbers1To10Mil.exe.config
+D:\Programming\Homeworks\07. ArraysHomework\PrimeNumbers1To10Mil\obj\Debug\15. PrimeNumbers1To10Mil.csprojResolveAssemblyReference.cache
+D:\Programming\Homeworks\07. ArraysHomework\PrimeNumbers1To10Mil\bin\Debug\PrimeNumbers1To10Mil.exe
+D:\Programming\Homeworks\07. ArraysHomework\PrimeNumbers1To10Mil\bin\Debug\PrimeNumbers1To10Mil.pdb
+D:\Programming\Homeworks\07. ArraysHomework\PrimeNumbers1To10Mil\obj\Debug\PrimeNumbers1To10Mil.exe
+D:\Programming\Homeworks\07. ArraysHomework\PrimeNumbers1To10Mil\obj\Debug\PrimeNumbers1To10Mil.pdb

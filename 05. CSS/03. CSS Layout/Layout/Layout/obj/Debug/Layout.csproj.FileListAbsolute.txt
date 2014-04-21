@@ -1,0 +1,6 @@
+D:\Programming\Homeworks\05. CSS\03. CSS Layout\Layout\Layout\bin\Layout.dll.config
+D:\Programming\Homeworks\05. CSS\03. CSS Layout\Layout\Layout\bin\Layout.dll
+D:\Programming\Homeworks\05. CSS\03. CSS Layout\Layout\Layout\bin\Layout.pdb
+D:\Programming\Homeworks\05. CSS\03. CSS Layout\Layout\Layout\obj\Debug\Layout.csprojResolveAssemblyReference.cache
+D:\Programming\Homeworks\05. CSS\03. CSS Layout\Layout\Layout\obj\Debug\Layout.dll
+D:\Programming\Homeworks\05. CSS\03. CSS Layout\Layout\Layout\obj\Debug\Layout.pdb

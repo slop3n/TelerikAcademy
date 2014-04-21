@@ -1,0 +1,12 @@
+D:\Programming\ArraysHomework\MaximalSequenceArray\bin\Debug\MaximalSequenceArray.exe.config
+D:\Programming\ArraysHomework\MaximalSequenceArray\obj\Debug\04. MaximalSequenceArray.csprojResolveAssemblyReference.cache
+D:\Programming\ArraysHomework\MaximalSequenceArray\bin\Debug\MaximalSequenceArray.exe
+D:\Programming\ArraysHomework\MaximalSequenceArray\bin\Debug\MaximalSequenceArray.pdb
+D:\Programming\ArraysHomework\MaximalSequenceArray\obj\Debug\MaximalSequenceArray.exe
+D:\Programming\ArraysHomework\MaximalSequenceArray\obj\Debug\MaximalSequenceArray.pdb
+D:\Programming\Homeworks\07. ArraysHomework\MaximalSequenceArray\bin\Debug\MaximalSequenceArray.exe.config
+D:\Programming\Homeworks\07. ArraysHomework\MaximalSequenceArray\obj\Debug\MaximalSequenceArray.exe
+D:\Programming\Homeworks\07. ArraysHomework\MaximalSequenceArray\obj\Debug\MaximalSequenceArray.pdb
+D:\Programming\Homeworks\07. ArraysHomework\MaximalSequenceArray\bin\Debug\MaximalSequenceArray.exe
+D:\Programming\Homeworks\07. ArraysHomework\MaximalSequenceArray\bin\Debug\MaximalSequenceArray.pdb
+D:\Programming\Homeworks\07. ArraysHomework\MaximalSequenceArray\obj\Debug\04. MaximalSequenceArray.csprojResolveAssemblyReference.cache

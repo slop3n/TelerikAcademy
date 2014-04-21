@@ -1,0 +1,6 @@
+C:\Users\Martin\Desktop\Arkanoid - Team Blue Beetle\Source Code\ArkanoidMain\bin\Debug\ArkanoidMain.exe.config
+C:\Users\Martin\Desktop\Arkanoid - Team Blue Beetle\Source Code\ArkanoidMain\bin\Debug\ArkanoidMain.exe
+C:\Users\Martin\Desktop\Arkanoid - Team Blue Beetle\Source Code\ArkanoidMain\bin\Debug\ArkanoidMain.pdb
+C:\Users\Martin\Desktop\Arkanoid - Team Blue Beetle\Source Code\ArkanoidMain\obj\Debug\ArkanoidMain.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Arkanoid - Team Blue Beetle\Source Code\ArkanoidMain\obj\Debug\ArkanoidMain.exe
+C:\Users\Martin\Desktop\Arkanoid - Team Blue Beetle\Source Code\ArkanoidMain\obj\Debug\ArkanoidMain.pdb

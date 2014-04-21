@@ -1,0 +1,5 @@
+D:\Programming\06. LoopsHomework\PrintDivisibleBy7And3\bin\Debug\PrintDivisibleBy7And3.exe.config
+D:\Programming\06. LoopsHomework\PrintDivisibleBy7And3\bin\Debug\PrintDivisibleBy7And3.exe
+D:\Programming\06. LoopsHomework\PrintDivisibleBy7And3\bin\Debug\PrintDivisibleBy7And3.pdb
+D:\Programming\06. LoopsHomework\PrintDivisibleBy7And3\obj\Debug\PrintDivisibleBy7And3.exe
+D:\Programming\06. LoopsHomework\PrintDivisibleBy7And3\obj\Debug\PrintDivisibleBy7And3.pdb

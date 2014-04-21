@@ -1,0 +1,5 @@
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ReverseString\bin\Debug\ReverseString.exe.config
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ReverseString\bin\Debug\ReverseString.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ReverseString\bin\Debug\ReverseString.pdb
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ReverseString\obj\Debug\ReverseString.exe
+D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ReverseString\obj\Debug\ReverseString.pdb

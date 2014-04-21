@@ -1,0 +1,6 @@
+D:\Programming\Homeworks\11. ClassesAndObjectsHomework\ClassesHomework\10RandomNumbers\bin\Debug\10RandomNumbers.exe.config
+D:\Programming\Homeworks\11. ClassesAndObjectsHomework\ClassesHomework\10RandomNumbers\bin\Debug\10RandomNumbers.exe
+D:\Programming\Homeworks\11. ClassesAndObjectsHomework\ClassesHomework\10RandomNumbers\bin\Debug\10RandomNumbers.pdb
+D:\Programming\Homeworks\11. ClassesAndObjectsHomework\ClassesHomework\10RandomNumbers\obj\Debug\02. 10RandomNumbers.csprojResolveAssemblyReference.cache
+D:\Programming\Homeworks\11. ClassesAndObjectsHomework\ClassesHomework\10RandomNumbers\obj\Debug\10RandomNumbers.exe
+D:\Programming\Homeworks\11. ClassesAndObjectsHomework\ClassesHomework\10RandomNumbers\obj\Debug\10RandomNumbers.pdb
