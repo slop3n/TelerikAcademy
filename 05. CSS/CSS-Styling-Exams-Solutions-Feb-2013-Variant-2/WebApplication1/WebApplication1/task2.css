@@ -1,0 +1,49 @@
+﻿html,
+body,
+ul,
+li,
+div,
+p,
+a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+section,
+aside,
+header,
+footer,
+fieldset,
+legend,
+input,
+label,
+button {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Courier New', Courier, 'Nimbus Mono L', monospace;
+  font-size: 16px;
+}
+body #wrapper {
+  width: 960px;
+}
+body #wrapper .notification-list {
+  width: 400px;
+  margin: 25px;
+  border: 1px solid black;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+body #wrapper .notification-list li {
+  display: inline-block;
+}
+body #wrapper .notification-list li img {
+  width: 15px;
+}
+body #wrapper .notification-list li .content {
+  display: none;
+}
+/*# sourceMappingURL=task2.css.map */
