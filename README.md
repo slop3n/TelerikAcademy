@@ -1,1 +1,1 @@
-#My Telerik Homeworks
+My Telerik Homeworks, Group projects and exam preparations
