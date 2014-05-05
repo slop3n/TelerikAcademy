@@ -1,0 +1,13 @@
+indent guides
+status bad extensions
+nettuts+ fetch
+ditto clipboard manager
+sidebar enhancements
+sublimecodeintel
+
+
+less2css
+jsformat
+sublimelinter
+brackethighliter 
+jquery
