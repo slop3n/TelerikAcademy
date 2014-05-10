@@ -1,0 +1,117 @@
+﻿html,
+body,
+ul,
+li,
+div,
+p,
+a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+section,
+aside,
+header,
+footer,
+fieldset,
+legend,
+input,
+label,
+button {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-size: 14px;
+  font-family: 'Times New Roman';
+  padding: 5px;
+}
+body #root {
+  width: 700px;
+}
+body #root li {
+  list-style: none;
+}
+body #root #large {
+  border: 2px solid #999999;
+  padding: 15px;
+  float: left;
+  width: 450px;
+  padding-right: 25px;
+}
+body #root #large img {
+  border: 2px solid #999999;
+  border-radius: 5px;
+}
+body #root #large h1 {
+  padding-top: 0px;
+  padding-left: 5px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+body #root #list {
+  float: left;
+  border: 2px solid #999999;
+  width: 200px;
+}
+body #root #list .title {
+  text-align: center;
+  display: block;
+  font-size: 1.4em;
+  padding: 5px 0px;
+}
+body #root #list button {
+  padding: 15px 35px;
+  border: 2px solid #999999;
+  border-radius: 5px;
+  background-color: #CCCCCC;
+}
+body #root #list button:hover {
+  background-color: #E6E6E6;
+}
+body #root #list ul {
+  height: 310px;
+  overflow-y: scroll;
+  margin: 5px;
+  padding-right: 5px;
+}
+body #root #list ul strong {
+  display: block;
+  text-align: center;
+  padding-top: 5px;
+}
+body #root #list ul li {
+  border-bottom: 2px solid #999999;
+  height: 115px;
+}
+body #root #list ul li:last-of-type {
+  border: none;
+  padding: 10px;
+}
+body #root #list ul li:hover {
+  background-color: #CCCCCC;
+  border-radius: 5px;
+  text-decoration: underline;
+}
+body #root #list ul img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: none;
+}
+body #root #list ul .current {
+  display: block;
+  background-color: #CCCCCC;
+  border-radius: 5px;
+  height: 90px;
+}
+body #root #list ul .current img {
+  width: 70px;
+  height: 50px;
+}
+/*# sourceMappingURL=task3.css.map */

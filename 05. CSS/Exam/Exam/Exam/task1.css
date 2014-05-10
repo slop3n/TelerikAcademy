@@ -1,0 +1,90 @@
+﻿html,
+body,
+ul,
+li,
+div,
+p,
+a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+section,
+aside,
+header,
+footer,
+fieldset,
+legend,
+input,
+label,
+button {
+  margin: 0;
+  padding: 0;
+}
+body #wrapper {
+  width: 960px;
+  font-size: 14px;
+  margin: 0px 3px;
+  font-family: Tahoma, sans-serif;
+}
+body #wrapper header {
+  width: 960px;
+}
+body #wrapper header #archive {
+  text-align: right;
+}
+body #wrapper header #archive ul li {
+  display: inline-block;
+}
+body #wrapper header #archive ul li a {
+  text-decoration: none;
+  color: black;
+  font-size: 10px;
+  padding-right: 5px;
+  padding-left: 3px;
+}
+body #wrapper header #header {
+  background-image: url(images/topnav_divider.png);
+  background-repeat: repeat-x;
+  height: 66px;
+}
+body #wrapper header #header ul li {
+  display: inline;
+  position: relative;
+  top: 20px;
+  left: 30px;
+}
+body #wrapper header #header ul li > a {
+  text-decoration: none;
+  color: #fff;
+  text-align: left;
+  padding-left: 20px;
+  font-size: 18px;
+}
+body #wrapper header #header ul li > a:first-letter {
+  text-transform: uppercase;
+}
+body #wrapper header #header h1 {
+  display: inline;
+  text-align: right;
+  color: #fff;
+  position: relative;
+  top: -6px;
+  left: 640px;
+}
+body #wrapper #content h1 {
+  color: #333333;
+  padding: 15px 0px;
+  font-size: 24px;
+}
+body #wrapper #content p {
+  color: #333333;
+  padding-bottom: 10px;
+  font-size: 14px;
+}
+.clear {
+  clear: both;
+}
+/*# sourceMappingURL=task1.css.map */

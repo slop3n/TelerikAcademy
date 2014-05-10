@@ -66,13 +66,15 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="1.OneToN.html" />
-    <Content Include="1.OneToN.js" />
-    <Content Include="2.OneToNExdended.js" />
+    <Content Include="1.one-to-n.js" />
+    <Content Include="2.one-to-n-exdended.js" />
     <Content Include="2.OneToNExtended.html" />
     <Content Include="3.MaxAndMin.html" />
-    <Content Include="3.MaxAndMin.js" />
+    <Content Include="3.max-and-min.js" />
     <Content Include="4.SmallestAndLargest.html" />
-    <Content Include="4.SmallestAndLargest.js" />
+    <Content Include="4.smallest-and-largest.js" />
+    <Content Include="ConsoleJS.css" />
+    <Content Include="ConsoleJS.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

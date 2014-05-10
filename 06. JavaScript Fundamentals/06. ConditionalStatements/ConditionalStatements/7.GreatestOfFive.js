@@ -1,9 +1,9 @@
 ﻿function getGreatest() {
     var firstNum = jsConsole.readInteger("#inputOne");
-    secondNum = jsConsole.readInteger("#inputTwo");
-    thirdNum = jsConsole.readInteger("#inputThree");
-    fourthNum = jsConsole.readInteger("#inputFour");
-    fifthNum = jsConsole.readInteger("#inputFive");
+    var secondNum = jsConsole.readInteger("#inputTwo");
+    var thirdNum = jsConsole.readInteger("#inputThree");
+    var fourthNum = jsConsole.readInteger("#inputFour");
+    var fifthNum = jsConsole.readInteger("#inputFive");
     if (firstNum > secondNum && firstNum > thirdNum && firstNum > fourthNum && firstNum > fifthNum) {
         jsConsole.writeLine("First number is greatest");
     }

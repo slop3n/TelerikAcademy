@@ -1,0 +1,68 @@
+﻿html,
+body,
+ul,
+li,
+div,
+p,
+a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+section,
+aside,
+header,
+footer,
+fieldset,
+legend,
+input,
+label,
+button {
+  margin: 0;
+  padding: 0;
+}
+body #wrapper {
+  width: 960px;
+  font-family: Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+  font-size: 16px;
+}
+body #wrapper aside {
+  width: 210px;
+  margin: 10px 20px;
+  background-color: #8A78FF;
+  border-radius: 10px;
+}
+body #wrapper aside ul.sidebar {
+  margin: 5px 10px;
+  list-style: none;
+  padding: 5px;
+  text-align: center;
+  width: 185px;
+}
+body #wrapper aside ul.sidebar li a {
+  display: inline-block;
+  text-decoration: none;
+  border-bottom: 1px solid purple;
+  width: 185px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 1.4em;
+  color: black;
+  font-weight: normal;
+}
+body #wrapper aside ul.sidebar li a:hover {
+  border: 1px solid purple;
+  border-radius: 5px;
+}
+body #wrapper aside ul.sidebar li :hover ul {
+  display: block;
+}
+body #wrapper aside ul.sidebar li:last-of-type {
+  border: none;
+}
+body #wrapper aside ul.sidebar li ul {
+  display: none;
+}
+/*# sourceMappingURL=task1.css.map */

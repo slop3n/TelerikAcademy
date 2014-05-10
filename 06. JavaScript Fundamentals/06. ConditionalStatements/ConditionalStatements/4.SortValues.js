@@ -1,10 +1,10 @@
 ﻿function sortValues() {
     var numOne = jsConsole.readInteger("#inputOne");
-    numTwo = jsConsole.readInteger("#inputTwo");
-    numThree = jsConsole.readInteger("#inputThree");
-    first = 0;
-    second = 0;
-    third = 0;
+    var numTwo = jsConsole.readInteger("#inputTwo");
+    var numThree = jsConsole.readInteger("#inputThree");
+    var first = 0;
+    var second = 0;
+    var third = 0;
 
     if (numOne > numTwo && numOne > numThree) {
         first = numOne;

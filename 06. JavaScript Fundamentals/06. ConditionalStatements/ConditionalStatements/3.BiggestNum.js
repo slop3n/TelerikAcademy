@@ -1,7 +1,7 @@
 ﻿function findBiggest() {
     var numOne = jsConsole.readInteger("#inputOne");
-    numTwo = jsConsole.readInteger("#inputTwo");
-    numThree = jsConsole.readInteger("#inputThree");
+    var numTwo = jsConsole.readInteger("#inputTwo");
+    var numThree = jsConsole.readInteger("#inputThree");
     if (numOne > numTwo) {
         if (numOne > numThree) {
             jsConsole.writeLine("The biggest number is the first");

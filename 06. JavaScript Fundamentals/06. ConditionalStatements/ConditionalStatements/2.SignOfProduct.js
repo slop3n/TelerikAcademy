@@ -1,7 +1,7 @@
 ﻿function getSign() {
     var numOne = jsConsole.readInteger("#inputOne");
-    numTwo = jsConsole.readInteger("#inputTwo");
-    numThree = jsConsole.readInteger("#inputThree");
+    var numTwo = jsConsole.readInteger("#inputTwo");
+    var numThree = jsConsole.readInteger("#inputThree");
     if (numOne < 0 && (numTwo < 0 || numThree < 0)) {
         jsConsole.writeLine("The sign is positive")
     }

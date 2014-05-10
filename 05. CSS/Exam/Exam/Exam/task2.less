@@ -1,0 +1,92 @@
+﻿html, body, ul, li, div, p, a, h1, h2, h3, h4, h5, h6, section, aside, header, footer, fieldset, legend, input, label, button {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    font-family: Constantina, Georgia, 'Nimbus Roman No9 L', serif;
+    font-size: 16px;
+
+    #wrapper {
+        width: 960px;
+
+        .content {
+            display: none;
+        }
+
+        .menu {
+
+            & > li {
+                margin: 10px 6px;
+                background-color: #B6FF00;
+                width: 150px;
+                border-radius: 15px;
+                padding: 10px;
+                height: 15px;
+                text-align: center;
+
+                a {
+                    color: #000;
+                }
+
+                &:hover {
+                    text-decoration: underline;
+                }
+            }
+
+            & > li:hover .content {
+                display: block;
+                position: relative;
+                top: -28px;
+                left: 160px;
+                background-color: #008000;
+                border-radius: 10px;
+                width: 540px;
+
+                a {
+                    color: #fff;
+                }
+
+                .sub-menu {
+                    text-align: left;
+                    padding-left: 10px;
+                    margin-bottom:10px;
+                    li a {
+                        text-decoration: none;
+                    }
+                }
+
+                .sub-menu li:hover img {
+                    display: block;
+                    position: relative;
+                    background-color: #008000;
+                    width: 500px;
+                    border-radius: 10px;
+                    margin-top:10px;
+                    margin-bottom:10px;
+                }
+            }
+
+            .sub-menu li {
+                padding: 10px;
+            }
+
+            .sub-menu li img {
+                display: none;
+            }
+        }
+
+        li {
+            list-style: none;
+        }
+
+        a {
+            text-decoration: none;
+        }
+    }
+}
+
+.clear {
+    clear: both;
+}

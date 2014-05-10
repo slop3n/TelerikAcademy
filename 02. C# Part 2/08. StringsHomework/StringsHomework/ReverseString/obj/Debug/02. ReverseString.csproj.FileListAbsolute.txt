@@ -3,3 +3,6 @@ D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ReverseString\bin\D
 D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ReverseString\bin\Debug\ReverseString.pdb
 D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ReverseString\obj\Debug\ReverseString.exe
 D:\Programming\Homeworks\14. StringsHomework\StringsHomework\ReverseString\obj\Debug\ReverseString.pdb
+D:\Programming\Homeworks\02. C# Part 2\08. StringsHomework\StringsHomework\ReverseString\bin\Debug\ReverseString.exe.config
+D:\Programming\Homeworks\02. C# Part 2\08. StringsHomework\StringsHomework\ReverseString\obj\Debug\ReverseString.exe
+D:\Programming\Homeworks\02. C# Part 2\08. StringsHomework\StringsHomework\ReverseString\obj\Debug\ReverseString.pdb

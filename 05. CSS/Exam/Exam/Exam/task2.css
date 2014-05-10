@@ -1,0 +1,95 @@
+﻿html,
+body,
+ul,
+li,
+div,
+p,
+a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+section,
+aside,
+header,
+footer,
+fieldset,
+legend,
+input,
+label,
+button {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Constantina, Georgia, 'Nimbus Roman No9 L', serif;
+  font-size: 16px;
+}
+body #wrapper {
+  width: 960px;
+}
+body #wrapper .content {
+  display: none;
+}
+body #wrapper .menu > li {
+  margin: 10px 6px;
+  background-color: #B6FF00;
+  width: 150px;
+  border-radius: 15px;
+  padding: 10px;
+  height: 15px;
+  text-align: center;
+}
+body #wrapper .menu > li a {
+  color: #000;
+}
+body #wrapper .menu > li:hover {
+  text-decoration: underline;
+}
+body #wrapper .menu > li:hover .content {
+  display: block;
+  position: relative;
+  top: -28px;
+  left: 160px;
+  background-color: #008000;
+  border-radius: 10px;
+  width: 540px;
+}
+body #wrapper .menu > li:hover .content a {
+  color: #fff;
+}
+body #wrapper .menu > li:hover .content .sub-menu {
+  text-align: left;
+  padding-left: 10px;
+  margin-bottom: 10px;
+}
+body #wrapper .menu > li:hover .content .sub-menu li a {
+  text-decoration: none;
+}
+body #wrapper .menu > li:hover .content .sub-menu li:hover img {
+  display: block;
+  position: relative;
+  background-color: #008000;
+  width: 500px;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+body #wrapper .menu .sub-menu li {
+  padding: 10px;
+}
+body #wrapper .menu .sub-menu li img {
+  display: none;
+}
+body #wrapper li {
+  list-style: none;
+}
+body #wrapper a {
+  text-decoration: none;
+}
+.clear {
+  clear: both;
+}
+/*# sourceMappingURL=task2.css.map */
