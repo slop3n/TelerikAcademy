@@ -16,15 +16,15 @@ namespace IncreasingSequence
             int maxLength = 1;
             int length = 1;
             int startPosition = 0;
-            for (int i = 0; i < numbers.Length-1; i++)
+            for (int i = 0; i < numbers.Length - 1; i++)
             {
                 if (numbers[i] + 1 == numbers[i + 1])
                 {
                     length++;
-                    if (length>maxLength)
+                    if (length > maxLength)
                     {
                         maxLength = length;
-                        startPosition = i-length+2;
+                        startPosition = i - length + 2;
                     }
                 }
                 else
@@ -34,7 +34,7 @@ namespace IncreasingSequence
             }
             for (int i = 0; i < maxLength; i++)
             {
-                Console.WriteLine(numbers[startPosition]+i);
+                Console.WriteLine(numbers[startPosition] + i);
             }
         }
     }

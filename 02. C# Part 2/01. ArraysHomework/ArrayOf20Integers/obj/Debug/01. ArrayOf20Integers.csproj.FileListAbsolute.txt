@@ -10,3 +10,6 @@ D:\Programming\Homeworks\07. ArraysHomework\ArrayOf20Integers\obj\Debug\ArrayOf2
 D:\Programming\Homeworks\07. ArraysHomework\ArrayOf20Integers\bin\Debug\ArrayOf20Integers.exe
 D:\Programming\Homeworks\07. ArraysHomework\ArrayOf20Integers\bin\Debug\ArrayOf20Integers.pdb
 D:\Programming\Homeworks\07. ArraysHomework\ArrayOf20Integers\obj\Debug\01. ArrayOf20Integers.csprojResolveAssemblyReference.cache
+D:\Programming\Homeworks\02. C# Part 2\01. ArraysHomework\ArrayOf20Integers\bin\Debug\ArrayOf20Integers.exe.config
+D:\Programming\Homeworks\02. C# Part 2\01. ArraysHomework\ArrayOf20Integers\obj\Debug\ArrayOf20Integers.exe
+D:\Programming\Homeworks\02. C# Part 2\01. ArraysHomework\ArrayOf20Integers\obj\Debug\ArrayOf20Integers.pdb

@@ -21,7 +21,6 @@ class Program
                     maxLength = length;
                     startPosition = i - (length - 2);
                 }
-
             }
             else
             {
