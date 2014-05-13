@@ -17,7 +17,8 @@
             length = 1;
         }
     }
+    jsConsole.writeLine("The sequencei is: ")
     for (var i = 0, l = maxLength; i < l; i++) {
-        jsConsole.writeLine(parseInt(numbers[startPosition]) + i);
+        jsConsole.write(parseInt(numbers[startPosition]) + i);
     }
 }

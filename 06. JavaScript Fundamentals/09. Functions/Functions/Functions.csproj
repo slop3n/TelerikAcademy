@@ -7,7 +7,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{F1E67026-EBA0-45D6-980A-3F5A9DB2F595}</ProjectGuid>
+    <ProjectGuid>{3960E2CB-2D3C-4F69-B790-E2DB6161A9AC}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -65,13 +65,22 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="1.LastDigit.html" />
-    <Content Include="2.Reverse.html" />
-    <Content Include="3.FindOccurences.html" />
-    <Content Include="4.FindNumberOfDivs.html" />
-    <Content Include="5.OccuranceInArray.html" />
-    <Content Include="6.BiggerThanNeighbors.html" />
-    <Content Include="7.FirstBiggerThanNeighbors.html" />
+    <Content Include="1.say-digit.js" />
+    <Content Include="1.SayLastDigit.html" />
+    <Content Include="2.reverse-number.js" />
+    <Content Include="2.ReverseNumber.html" />
+    <Content Include="3.find-word.js" />
+    <Content Include="3.FindWord.html" />
+    <Content Include="4.count-divs.js" />
+    <Content Include="4.CountDivs.html" />
+    <Content Include="5.count-number.js" />
+    <Content Include="5.CountNumber.html" />
+    <Content Include="6.check-neighbours.js" />
+    <Content Include="6.CheckNeighbours.html" />
+    <Content Include="7.return-first-bigger-than-neighbours.js" />
+    <Content Include="7.ReturnFirstBiggerThanNeighbours.html" />
+    <Content Include="ConsoleJS.css" />
+    <Content Include="ConsoleJS.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -90,7 +99,7 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>11964</DevelopmentServerPort>
+          <DevelopmentServerPort>2895</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>http://localhost:11964/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>

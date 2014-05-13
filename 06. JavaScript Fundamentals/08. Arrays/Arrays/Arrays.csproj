@@ -77,6 +77,7 @@
     <Content Include="5.SelectionSort.html" />
     <Content Include="6.most-frequent-in-array.js" />
     <Content Include="6.MostFrequentInArray.html" />
+    <Content Include="7.binary-search.js" />
     <Content Include="7.BinarySearch.html" />
     <Content Include="ConsoleJS.css" />
     <Content Include="ConsoleJS.js" />

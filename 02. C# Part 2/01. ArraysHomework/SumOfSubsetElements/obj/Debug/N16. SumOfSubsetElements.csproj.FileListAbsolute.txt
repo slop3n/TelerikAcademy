@@ -1,1 +1,7 @@
 D:\Programming\Homeworks\07. ArraysHomework\SumOfSubsetElements\bin\Debug\SumOfSubsetElements.exe.config
+D:\Programming\Homeworks\02. C# Part 2\01. ArraysHomework\SumOfSubsetElements\bin\Debug\SumOfSubsetElements.exe.config
+D:\Programming\Homeworks\02. C# Part 2\01. ArraysHomework\SumOfSubsetElements\bin\Debug\SumOfSubsetElements.exe
+D:\Programming\Homeworks\02. C# Part 2\01. ArraysHomework\SumOfSubsetElements\bin\Debug\SumOfSubsetElements.pdb
+D:\Programming\Homeworks\02. C# Part 2\01. ArraysHomework\SumOfSubsetElements\obj\Debug\N16. SumOfSubsetElements.csprojResolveAssemblyReference.cache
+D:\Programming\Homeworks\02. C# Part 2\01. ArraysHomework\SumOfSubsetElements\obj\Debug\SumOfSubsetElements.exe
+D:\Programming\Homeworks\02. C# Part 2\01. ArraysHomework\SumOfSubsetElements\obj\Debug\SumOfSubsetElements.pdb
