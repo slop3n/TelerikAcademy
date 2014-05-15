@@ -1,3 +1,0 @@
-D:\Programming\Homeworks\03. OOP\01. DefiningClassesPartOne\dsada\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-D:\Programming\Homeworks\03. OOP\01. DefiningClassesPartOne\dsada\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-D:\Programming\Homeworks\03. OOP\01. DefiningClassesPartOne\dsada\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
