@@ -1,3 +1,8 @@
+/* Write a function that removes all elements with a 
+given value
+ Attach it to the array type
+ Read about prototype and how to attach methods */
+
 Array.prototype.remove = function(element){
 	for (var i = 0; i < this.length; i++) {
 		if(this[i] == element){

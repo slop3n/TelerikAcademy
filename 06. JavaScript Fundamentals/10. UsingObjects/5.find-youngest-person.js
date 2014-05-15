@@ -1,3 +1,4 @@
+// Write a function that finds the youngest person in a given array of persons and prints his/hers full name
 function dynamicSort(property) {
     var sortOrder = 1;
     if(property[0] === "-") {

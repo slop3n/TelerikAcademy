@@ -1,0 +1,1 @@
+Inside each folder is an archive with the files which have to be edited(reformat/rename/document etc.)
