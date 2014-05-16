@@ -1,1 +1,0 @@
-D:\Programming\Homeworks\03. OOP\02. DefiningClassesPartTwo\DefiningClassesPartTwoHomework\DefiningClassesPartOne\Point3D\bin\Debug\Point3D.exe.config
