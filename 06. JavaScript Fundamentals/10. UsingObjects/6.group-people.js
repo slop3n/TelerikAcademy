@@ -5,8 +5,8 @@ arrays with persons in this groups
  Use function overloading (i.e. just one function) */
  function group(people, prop) {
     switch (prop) {
-        case "firstName":
-        case "lastName":
+        case "firstname":
+        case "lastname":
         case "age":
             {
                 var groups = {};
@@ -25,11 +25,11 @@ arrays with persons in this groups
     }
 }
 
-
-var People = [
+var people = [
 { firstname:'Gosho', lastname: 'Petrov', age: 32 },
+{ firstname:'Atanas', lastname:'Angelov', age:15 },
 { firstname:'Bay', lastname: 'Ivan', age: 82 },
 { firstname:'Naughty', lastname: 'Joro', age: 20 } ];
 
-var grouped = group(People, "age");
-console.log(grouped)
+var grouped = group(people, "age");
+console.log(grouped);
