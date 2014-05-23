@@ -4,3 +4,6 @@ D:\Programming\Homeworks\07. ArraysHomework\MaximalSumOfElements\bin\Debug\Maxim
 D:\Programming\Homeworks\07. ArraysHomework\MaximalSumOfElements\obj\Debug\MaximalSumOfElements.exe
 D:\Programming\Homeworks\07. ArraysHomework\MaximalSumOfElements\obj\Debug\MaximalSumOfElements.pdb
 D:\Programming\Homeworks\07. ArraysHomework\MaximalSumOfElements\obj\Debug\06. MaximalSumOfElements.csprojResolveAssemblyReference.cache
+D:\Programming\Homeworks\02. C# Part 2\01. ArraysHomework\MaximalSumOfElements\bin\Debug\MaximalSumOfElements.exe.config
+D:\Programming\Homeworks\02. C# Part 2\01. ArraysHomework\MaximalSumOfElements\obj\Debug\MaximalSumOfElements.exe
+D:\Programming\Homeworks\02. C# Part 2\01. ArraysHomework\MaximalSumOfElements\obj\Debug\MaximalSumOfElements.pdb

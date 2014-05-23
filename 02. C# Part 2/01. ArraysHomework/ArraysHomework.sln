@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. ArrayOf20Integers", "ArrayOf20Integers\01. ArrayOf20Integers.csproj", "{C134F9C2-B9F2-4B59-9F5F-173CD04D99A7}"
 EndProject
@@ -44,6 +44,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20. VariationsFromNumber", "VariationsFromNumber\20. VariationsFromNumber.csproj", "{C1A347EA-4330-4235-9DC0-D7FA7D5F60B1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21. CombinationsFromNumber", "CombinationsFromNumber\21. CombinationsFromNumber.csproj", "{C8106DE7-4165-429C-8DD2-8FF0ECFEF6C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{87F4FE9E-7328-40CB-B235-87A960E175C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{C8106DE7-4165-429C-8DD2-8FF0ECFEF6C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8106DE7-4165-429C-8DD2-8FF0ECFEF6C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8106DE7-4165-429C-8DD2-8FF0ECFEF6C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87F4FE9E-7328-40CB-B235-87A960E175C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F4FE9E-7328-40CB-B235-87A960E175C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F4FE9E-7328-40CB-B235-87A960E175C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F4FE9E-7328-40CB-B235-87A960E175C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
