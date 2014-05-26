@@ -21,6 +21,9 @@ namespace ExtractDate
                     string dateCanada = date.ToString("dd/MM/yy", CultureInfo.InvariantCulture);
                     Console.WriteLine(dateCanada);
                 }
+                catch
+                {
+                }
             }
         }
     }

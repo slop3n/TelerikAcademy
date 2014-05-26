@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace ExtractDifferentWords
@@ -12,14 +13,24 @@ namespace ExtractDifferentWords
         static void Main(string[] args)
         {
             string[] text = "We are living in a yellow submarine. We don't have anything else. Inside the submarine is very tight. So we are drinking all the day. We will move out of it in 5 days.".Split(new char[] { ' ', '.', ',' }, StringSplitOptions.RemoveEmptyEntries);
-            string previousWord = text[0];
-            int counter = 1;
-            for (int i = 0; i < text.Length; i++)
+
+            var dict = new Dictionary<string, int>();
+
+            foreach (var word in text)
             {
-                for (int j = 0; j < length; j++)
+                if (dict.ContainsKey(word))
                 {
-                    
+                    dict[word] = dict[word] + 1;
                 }
+                else
+                {
+                    dict.Add(word, 1);
+                }
+            }
+
+            foreach (var word in dict)
+            {
+                Console.WriteLine("{0, -10} - {1} times", word.Key, word.Value);
             }
         }
     }
