@@ -1,0 +1,10 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+}
+
+#container, #paper {
+    position: absolute;
+    width: 600px;
+    height: 600px;
+}
