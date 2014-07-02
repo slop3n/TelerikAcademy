@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Classical OOP</title>
+<script src="Module.js"></script>
+</head>
+<body>
+    <canvas id="canvas" width="500" height="400" ></canvas>
+    <script>
+        var module = new module('canvas');
+		
+        module.drawLine(10, 10, 50, 50, 'purple', 5);
+
+        module.drawCircle(100, 100, 50, 'red', 3, '#ABC');
+
+        module.drawRect(170, 170, 100, 100 , 'yellow' , 7 , 'yellowgreen');
+    </script>
+</body>
+</html>
